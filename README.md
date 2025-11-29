@@ -2,7 +2,7 @@
 **Intelligent Open Hardware • Web-Controlled • THT Kit • Maker Friendly**
 
 ![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)
-![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)(/firmware/)
+[![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)(/firmware/)
 ![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-orange?style=flat-square)
 ![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)
 ![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)
