@@ -34,8 +34,8 @@ import ubinascii
 # =============================================================================
 
 # WiFi
-WIFI_SSID = "wifi5g841"
-WIFI_PASSWORD = "TimeconnectGB179"
+WIFI_SSID = "SSID"
+WIFI_PASSWORD = "PASSWORD"
 WIFI_CHECK_INTERVAL = 600
 WIFI_RECONNECT_ATTEMPTS = 2
 WIFI_RECONNECT_DELAY = 20
