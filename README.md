@@ -5,6 +5,15 @@
 [![Made with MicroPython](https://img.shields.io/badge/Made%20with-MicroPython-green.svg)](https://micropython.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-Open--Source--Intelligent-orange.svg)]()
 
+![Firmware MIT](https://img.shields.io/badge/Firmware-MIT-%230000FF)
+![License: MIT](https://img.shields.io/badge/Firmware-MIT-blue)
+
+![Firmware MIT](https://img.shields.io/badge/Firmware-MIT-%2300FF00)
+![License: MIT](https://img.shields.io/badge/Firmware-MIT-green)
+![License: MIT](https://img.shields.io/badge/Firmware-MIT-brightgreen)
+
+![License: MIT](https://img.shields.io/badge/Firmware-MIT-red)
+![License: MIT](https://img.shields.io/badge/Firmware-MIT-%23FF0000)
 
 ![License: MIT](https://img.shields.io/badge/Firmware-MIT-blue.svg)
 ![License: CC BY-NC-SA](https://img.shields.io/badge/Docs-CC%20BY--NC--SA-orange.svg)
