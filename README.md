@@ -1,13 +1,13 @@
 # ML01 PROJECT — DIY LED Board Powered by Raspberry Pico 2W
 **Intelligent Open Hardware • Web-Controlled • THT Kit • Maker Friendly**
 
-[![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)](/hardware/)
-[![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)](/firmware/)
-[![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-orange?style=flat-square)](/docs)
-[![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)](docs/cost_breakdown.pdf)
+[![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)](/03_hardware/)
+[![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)](/02_firmware/)
+[![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-orange?style=flat-square)](/01_docs)
+[![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)](01_docs/costs.pdf)
 [![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENSE.md)
 
-![ML01 main photo](docs/images/product/main-photo.jpg)
+![ML01 main photo](05_images/product/main-photo.jpg)
 
 <p align="center">
   <strong>Learn • Build • Control • Customize</strong><br>
@@ -150,30 +150,32 @@ ML01/
 ├── LICENSE.md
 ├── CHANGELOG.md
 │
-├── docs/
-│   ├── assembly_guide.pdf
-│   ├── technical_specs.pdf
-│   ├── cost_breakdown.pdf
-│   └── images/
-│       ├── product/
-│       ├── assembly/
-│       └── usage/
+├── 01_docs/
+│   ├── assembly.pdf
+│   ├── settings.pdf
+│   ├── specifications.pdf
+│   ├── costs.pdf
 │
-├── firmware/
+├── 02_firmware/
 │   ├── main.py
 │   ├── index.html
 │   ├── microdot.py
 │   └── LICENSE
 │
-├── hardware/
+├── 03_hardware/
 │   ├── BOM.ods
 │   ├── schematic.pdf
 │   └── LICENSE
 │
-└── 3d/
-    ├── board_stand.stl
-    ├── board_stand.stp
-    └── LICENSE
+├── 04_3d/
+│   ├── board_stand.stl
+│   ├── board_stand.stp
+│   └── LICENSE
+│
+└── 05_images/
+    ├── product/
+    ├── assembly/
+    └── usage/
 ```
 
 ---
