@@ -1,35 +1,14 @@
 # ML01 PROJECT — DIY LED Board Powered by Raspberry Pico 2W
 **Intelligent Open Hardware • Web-Controlled • THT Kit • Maker Friendly**
 
-[![License: Multiple](https://img.shields.io/badge/License-Multiple-blue.svg)](LICENSE.md)
-[![Made with MicroPython](https://img.shields.io/badge/Made%20with-MicroPython-green.svg)](https://micropython.org/)
-[![Hardware](https://img.shields.io/badge/Hardware-Open--Source--Intelligent-orange.svg)]()
-
-![Firmware MIT](https://img.shields.io/badge/Firmware-MIT-%230000FF)
-![License: MIT](https://img.shields.io/badge/Firmware-MIT-blue)
-
-![Firmware MIT](https://img.shields.io/badge/Firmware-MIT-%2300FF00)
-![License: MIT](https://img.shields.io/badge/Firmware-MIT-green)
-![License: MIT](https://img.shields.io/badge/Firmware-MIT-brightgreen)
-
-![License: MIT](https://img.shields.io/badge/Firmware-MIT-red)
-![License: MIT](https://img.shields.io/badge/Firmware-MIT-%23FF0000)
-
-![License: MIT](https://img.shields.io/badge/Firmware-MIT-blue.svg)
-![License: CC BY-NC-SA](https://img.shields.io/badge/Docs-CC%20BY--NC--SA-orange.svg)
-![License: CC BY-SA](https://img.shields.io/badge/BOM-CC%20BY--SA-yellow.svg)
-![License: CC BY-NC-SA](https://img.shields.io/badge/3D%20Models-CC%20BY--NC--SA-red.svg)
-
-![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
-![Hardware](https://img.shields.io/badge/Hardware-THT%20DIY-green)
-![MCU](https://img.shields.io/badge/MCU-Raspberry%20Pi%20Pico%202W-lightgrey)
-![Web Server](https://img.shields.io/badge/Web%20Server-Microdot-blue)
-![LEDs](https://img.shields.io/badge/LEDs-16%20×%20THT-brightgreen)
-https://img.shields.io/badge/ML01-Open%20Source%20Intelligent-purple
-
-
-
-
+![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)
+![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)
+![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-orange?style=flat-square)
+![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)
+![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)
+![MCU](https://img.shields.io/badge/MCU-Raspberry%20Pi%20Pico%202W-yellow?style=flat-square)
+![MicroPython](https://img.shields.io/badge/Made%20with-MicroPython-lightgrey?style=flat-square)
+![Microdot](https://img.shields.io/badge/Web%20Server-Microdot-lightgrey?style=flat-square)
 
 ![ML01 main photo](docs/images/product/main-photo.jpg)
 
