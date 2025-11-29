@@ -6,9 +6,6 @@
 ![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-orange?style=flat-square)
 ![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)
 ![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)
-![MCU](https://img.shields.io/badge/MCU-Raspberry%20Pi%20Pico%202W-yellow?style=flat-square)
-![MicroPython](https://img.shields.io/badge/Made%20with-MicroPython-lightgrey?style=flat-square)
-![Microdot](https://img.shields.io/badge/Web%20Server-Microdot-lightgrey?style=flat-square)
 
 ![ML01 main photo](docs/images/product/main-photo.jpg)
 
