@@ -5,7 +5,7 @@
 [![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)](/firmware/)
 [![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-orange?style=flat-square)](/docs)
 [![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)](docs/cost_breakdown.pdf)
-[![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENCE.md)
+[![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](main/LICENCE.md)
 
 ![ML01 main photo](docs/images/product/main-photo.jpg)
 
