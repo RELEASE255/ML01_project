@@ -10,7 +10,7 @@
 ![ML01 main photo](05_images/product/ML01_main_photo.jpg)
 
 <p align="center">
-  <strong>This DIY kit is designed for maers or learners who want to build, remotely control and customize their own wifi lighting solution.e</strong><br>
+  <strong>This DIY kit is designed for makers or learners who want to build, remotely control and customize their own wifi lighting solution.</strong><br>
 </p>
 
 ---
