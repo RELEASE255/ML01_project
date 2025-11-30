@@ -127,7 +127,7 @@ ML01 uses a **multi-license** & **balanced open source model**
 |---------------|-----------------|---------------|----------------|
 | Firmware      | MIT             | `.py` `.html` | ✅ Allowed     |
 | BOM           | CC BY-SA 4.0    | `.ods`        | ✅ Allowed     |
-| Cost sheets   | Free use        | `.ods`        | ❌ Not allowed |
+| Costs         | Free use        | `.ods`        | ❌ Not allowed |
 | 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp` | ❌ Not allowed |
 | Documentation | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
 | Schematics    | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
@@ -168,7 +168,7 @@ Let's explore cross-promotion, joint tutorials, shared tools, or group orders.
 ML01/
 ├── 01_docs/
 │   ├── assembly.pdf
-│   ├── costs.pdf
+│   ├── costs.ods
 │   ├── LICENSE_docs
 │   ├── settings.pdf
 │   └── specifications.pdf
