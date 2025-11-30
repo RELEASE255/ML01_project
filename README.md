@@ -1,5 +1,5 @@
-# ML01 PROJECT — DIY LED Board Powered by Raspberry Pico 2W
-**Intelligent Open Hardware • Web-Controlled • THT Kit • Maker Friendly**
+# ML01 project by RELEASE255
+**DIY LED Board Powered by Raspberry Pico 2W**
 
 [![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)](/03_hardware/)
 [![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)](/02_firmware/)
@@ -10,8 +10,7 @@
 ![ML01 main photo](05_images/product/ML01_main_photo.jpg)
 
 <p align="center">
-  <strong>Learn • Build • Control • Customize</strong><br>
-  An open-source-intelligent lighting kit designed for makers who value freedom, quality, and transparency.
+  <strong>This DIY kit is designed for maers or learners who want to build, remotely control and customize their own wifi lighting solution.e</strong><br>
 </p>
 
 ---
