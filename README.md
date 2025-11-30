@@ -9,125 +9,98 @@
 
 ![ML01 main photo](05_images/product/ML01_main_photo.jpg)
 
-<p align="center">
-This DIY kit is designed for makers or learners who want to<br>
-  <strong> Build • Remotely control • Customize</strong><br>
-  their own wifi lighting solution with an open source approach
-</p>
-
 ---
 
 # 💡 Overview
 
-**ML01** is a fully DIY through-hole LED board driven by a **Raspberry Pi Pico 2W** and two **TPIC6B595** shift registers.
-It is both an educational tool and a customizable product, combining:
+**ML01** is a fully DIY through-hole LED board driven by a **Raspberry Pi Pico 2W** and two **TPIC6B595** shift registers. Built for enthusiasts makers, learners, and creative tinkerers, this product combining:
 
 - Electronics learning
 - Soldering practice
 - Microcontroller programming
 - Wireless control via Microdot
+- Possibility to customize the firmware and hardware
 - Open hardware philosophy with protected PCB design
-
-ML01 is built for **enthusiasts makers**, **learners**, and **creative tinkerers**.
 
 ---
 
-# ✨ Key Features
+# 📋 Key Features
 
-- **LED Circle** — 16 yellow LEDs driven by 2× TPIC power shift registers
-- **Physical Controls** — 2 buttons to switch operating modes
-- **Wireless Web Interface** — Autonomous Microdot server for full remote control
-- **ON Mode** — Turn all LEDs on
-- **CHASE Mode** — Minute indicator synchronized via an NTP server
-- **100% DIY THT** — Perfect for beginners and repair-friendly
-- **Upgradable Firmware** — New modes and features can be added anytime
-- **Flexible Power** — Works with the included 12.5 W PSU or via USB
-- **Affordable** — You assemble it yourself, lowering production cost, Low Consumption ~1 Wh
-
-<p align="center"><strong>ML01 = Learning + Creativity + Transparency</strong></p>
+- **LED Circle** | 16 yellow LEDs driven by 2× TPIC power shift registers
+- **Physical Controls** | 2 buttons to switch operating modes
+- **Wireless Web Interface** | Autonomous Microdot server for full remote control
+- **Mode 1 (FULL)** | Turn all LEDs on 
+- **Mode 2 (CHASE)** | Minute indicator synchronized via an NTP server
+- **100% DIY THT** | Perfect for beginners and maker who wish to assemble or repair their product
+- **Upgradable Firmware** | New modes and features can be added anytime
+- **Easy Powered** | Works with the included 12.5 W PSU or via USB
+- **Budget Friendly** | Transparent and moderate costs coupled with low consumption (~1 Wh)
 
 ---
 
 # 📦 Contents of the Kit
 
-- PCB (THT)
-- Raspberry Pi Pico 2W
-- 12.5 W Raspberry power supply (5.1 V / 2.5 A)
-- TPIC6B595 ICs
-- LEDs
-- Resistors
-- Capacitors
-- Resettable fuse
-- Buttons
-- Printed stand / support
+- 01x PCB
+- 01x Raspberry Pi Pico 2W (THT version)
+- 01x Raspberry power supply 12.5 W (5.1 V / 2.5 A)
+- 02x TPIC6B595 (Power Shift Register)
+- 16x Yellow LED (2500 mcd 60 deg)
+- 16x Metal resistors 160Ω 
+- 07x Ceramic capacitor (X7R 100 nF)
+- 01x Electro radial capacitor (100µF)
+- 01x Resettable fuse
+- 02x Push buttons
+- 01X FDM printed board stand in grey PLA
+
+#### 🛒 Complete Kit available on Tindie
+
+![ML01 Kit](05_images/assembly/ML01_kit.jpg)
 
 ---
 
-# 🧠 Open-Source-Intelligent Philosophy
+# 📸 Gallery
 
-ML01 follows a **balanced open hardware model**:
+<p align="center">
+  <img src="05_images/assembly/ML01_bare_pcb.jpg" width="45%">
+  <img src="05_images/assembly/ML01_soldering.jpg" width="45%">
+</p>
 
-### 🟢 100% OPEN
-- Full firmware (MIT)
-- Electronic schematics (PDF)
-- Complete documentation
-- BOM (Open license)
-- Cost transparency
-- No cookies, no trackers, no ads
+<p align="center">
+  <img src="05_images/usage/ML01_remote.jpg" width="100%">
+</p>
 
-### 🔒 PROTECTED
-To preserve the value of the design, the following remain proprietary:
-- KiCad source files
-- PCB routing & layout
-- Gerber files
-- 3D model of the actual PCB
+<p align="center">
+  <img src="05_images/usage/ML01_log.jpg" width="100%">
+</p>
 
-This ensures independence, sustainability, and creator protection.
+<p align="center">
+  <img src="05_images/product/ML01_3dview.jpg" width="45%">
+  <img src="05_images/product/ML01_mode1.jpg" width="45%">
+</p>
 
 ---
 
-# 📚 Documentation & How to Use
-
-## 📸 Gallery
-
-<p align="center">
-  <img src="docs/images/product/front-view.jpg" width="45%">
-  <img src="docs/images/product/back-view.jpg" width="45%">
-</p>
-
-<p align="center">
-  <img src="docs/images/usage/web-interface.jpg" width="45%">
-  <img src="docs/images/assembly/soldering.jpg" width="45%">
-</p>
+# 📚 Documentation
 
 ## 🚀 Quick Start
+1. **Solder** all components following the guide (⏱️ ~ 5 hours)
+2. **Finishing** the PCB assembly with the cleaning
+3. **Flash** the firmware to your Pico 2W
+4. **Configure** the main.py file as you wish
+5. **Transfer** the 3 files (main.py, index.html, microdot.py) to your pico
+6. **Plug** the device to start the programm, it connects to your WiFi network
+7. **Control** via web interface or the buttons
 
-1. **Solder** all components following the guide
-2. **Flash** the firmware to your Pico 2W
-3. **Connect** to ML01 WiFi network
-4. **Control** via web interface at http://ml01.local
+## 👨‍🏭 Assembly  
+Follow the complet guide to [Assembly](01_docs/assembly.pdf)
 
-⏱️ Assembly time: ~4 hours
+## ⚙️ Configuration  
+Follow the complet guide to edit [Settings](01_docs/settings.pdf) & tranfer files
 
-
-## 1. Assembly  
-📄 Follow the guide:
-➡️ [Assembly Guide](docs/assembly_guide.pdf)
-
-## 2. Flashing the Firmware  
-- Copy the contents of `/firmware/` to your Pico 2W.
-- Reboot.
-- Connect to the ML01 Wi-Fi network.
-
-## 3. Configuration  
-Access the Web UI via Microdot: http://ml01.local or via the displayed IP.
-
-## 4. Control  
+## 🕹️ Control  
 Switch modes using the 2 physical buttons OR use the wireless web interface.
 
----
-
-# ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **DIY kit requiring soldering**.
 - Assembly mistakes may damage components.
@@ -136,48 +109,37 @@ Switch modes using the 2 physical buttons OR use the wireless web interface.
 
 ---
 
-# �️ Where to Buy
+# 🌐 Ecosystem
 
-- **Complete Kit:** [Available on Tindie](#) *(Coming soon)*
-- **3D Printable Stand:** [Download on Printables](#) *(Coming soon)*
+- **Official website** *(your-site.com)*
+- **Buy the kit** *(Tindie link)*
+- **3d stand** *(Printables link)*
+- **Community** *(Mastodon link)*
+- **Project page** *(Hackaday.io link)*
 
 ---
 
-# 🗂️ Repository Structure
+# 📜 License Summary
 
-```
-ML01/
-├── README.md
-├── LICENSE.md
-├── CHANGELOG.md
-│
-├── 01_docs/
-│   ├── assembly.pdf
-│   ├── settings.pdf
-│   ├── specifications.pdf
-│   ├── costs.pdf
-│
-├── 02_firmware/
-│   ├── main.py
-│   ├── index.html
-│   ├── microdot.py
-│   └── LICENSE
-│
-├── 03_hardware/
-│   ├── BOM.ods
-│   ├── schematic.pdf
-│   └── LICENSE
-│
-├── 04_3d/
-│   ├── board_stand.stl
-│   ├── board_stand.stp
-│   └── LICENSE
-│
-└── 05_images/
-    ├── product/
-    ├── assembly/
-    └── usage/
-```
+ML01 uses a **multi-license** & **balanced open source model**
+
+| Category      | License         | File Types    | Commercial use |
+|---------------|-----------------|---------------|----------------|
+| Firmware      | MIT             | `.py` `.html` | ✅ Allowed     |
+| BOM           | CC BY-SA 4.0    | `.ods`        | ✅ Allowed     |
+| Cost sheets   | Free use        | `.ods`        | ❌ Not allowed |
+| 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp` | ❌ Not allowed |
+| Documentation | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
+| Schematics    | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
+
+### 🔒 PCB SOURCES REMAIN PROPRIETARY
+
+In order to preserve the value of the design, guarantee independence, sustainability and the protection of creators, the following elements are not available:
+
+- KiCad source files
+- PCB routing & layout
+- Gerber files
+- 3D model of the actual PCB
 
 ---
 
@@ -189,7 +151,7 @@ Contributions to the **firmware** and **documentation** are welcome!
 - Submit pull requests for code or docs
 - Proprietary files cannot be modified
 
-### 🔍 Interested in partnering?
+### Interested in partnering?
 I'm open to collaborations with:
 
 - Makers
@@ -200,30 +162,39 @@ Let's explore cross-promotion, joint tutorials, shared tools, or group orders.
 
 ---
 
-# 🌐 Ecosystem
+# 🗂️ Repository Structure
 
-- 🛒 **Buy the kit:** *(Tindie link)*
-- 🧱 **3D model:** *(Printables link)*
-- 🌐 **Official website:** *(your-site.com)*
-- 🐘 **Community:** *(Mastodon link)*
-- 🔧 **Project page:** *(Hackaday.io link)*
-- 💻 **Git repository:** *(GitHub link)*
-
----
-
-# 📜 License Summary
-
-ML01 uses a **multi-license** model:
-
-| Area          | License         | File types         |
-|---------------|-----------------|--------------------|
-| Firmware      | MIT             | .py, .html         |
-| Documentation | CC BY-NC-SA 4.0 | .pdf               |
-| Schematics    | CC BY-NC-SA 4.0 | .pdf               |
-| 3D Models     | CC BY-NC-SA 4.0 | .stl, .stp         |
-| BOM           | CC BY-SA 4.0    | .ods               |
-| Cost sheets   | Free use        | .pdf               |
-
-**Proprietary:** KiCad source files, PCB layout, Gerbers.
-
-<p align="center"><strong>ML01 — Open Source Hardware done responsibly.</strong></p>
+```
+ML01/
+├── 01_docs/
+│   ├── assembly.pdf
+│   ├── costs.pdf
+│   ├── LICENSE_docs
+│   ├── settings.pdf
+│   └── specifications.pdf
+│
+├── 02_firmware/
+│   ├── index.html
+│   ├── LICENSE_firmware
+│   ├── main.py
+│   └── microdot.py
+│
+├── 03_hardware/
+│   ├── BOM.ods
+│   ├── LICENSE_hardware
+│   └── schematics.pdf
+│
+├── 04_3d/
+│   ├── board_stand.stl
+│   ├── board_stand.stp
+│   └── LICENSE_3d
+│
+├── 05_images/
+│   ├── product/
+│   ├── assembly/
+│   └── usage/
+│
+├── CHANGELOG.md
+├── LICENSE.md
+└── README.md
+```
