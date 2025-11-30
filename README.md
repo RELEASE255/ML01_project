@@ -95,17 +95,17 @@
 Follow the complet guide to [Assembly](01_docs/assembly.pdf)
 
 ## ⚙️ Configuration  
-Follow the complet guide to edit [Settings](01_docs/settings.pdf) & tranfer files
+Follow the complet guide to edit [Settings](01_docs/settings.pdf)
 
 ## 🕹️ Control  
-Switch modes using the 2 physical buttons OR use the wireless web interface.
+Switch modes using the 2 physical buttons OR use the wireless web interface
 
 ## ⚠️ Disclaimer
 
-- This is a **DIY kit requiring soldering**.
-- Assembly mistakes may damage components.
-- No warranty is provided.
-- Use at your own risk.
+- This is a **DIY kit requiring soldering**
+- Assembly mistakes may damage components
+- No warranty is provided
+- Use at your own risk
 
 ---
 
