@@ -7,7 +7,7 @@
 [![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)](01_docs/costs.pdf)
 [![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENSE.md)
 
-![ML01 main photo](05_images/product/main-photo.jpg)
+![ML01 main photo](05_images/product/ML01_main_photo.jpg)
 
 <p align="center">
   <strong>Learn • Build • Control • Customize</strong><br>
