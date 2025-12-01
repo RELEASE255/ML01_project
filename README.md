@@ -221,6 +221,7 @@ ML01/
 │   └── LICENSE_images.md
 │
 ├── CHANGELOG.md
-├── LICENSE
+├── LICENSE (MIT)
+├── LICENSE.md (OVERVIEW)
 └── README.md
 ```
