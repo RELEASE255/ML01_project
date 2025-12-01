@@ -82,7 +82,7 @@
 
 # 📚 Documentation
 
-## 🚀 Quick Start
+## Quick Start
 1. **Solder** all components following the guide (⏱️ ~ 5 hours)
 2. **Finishing** the PCB assembly with the cleaning
 3. **Flash** the firmware to your Pico 2W
@@ -91,16 +91,18 @@
 6. **Plug** the device to start the programm, it connects to your WiFi network
 7. **Control** via web interface or the buttons
 
-## 👨‍🏭 Assembly  
+## Assembly  
 Follow the complet guide to [Assembly](01_docs/assembly.pdf)
 
-## ⚙️ Configuration  
+## Configuration  
 Follow the complet guide to edit [Settings](01_docs/settings.pdf)
 
-## 🕹️ Control  
+## Control  
 Switch modes using the 2 physical buttons OR use the wireless web interface
 
-## ⚠️ Disclaimer
+---
+
+# ⚠️ Disclaimer
 
 - This is a **DIY kit requiring soldering**
 - Assembly mistakes may damage components
