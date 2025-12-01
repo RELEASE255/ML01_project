@@ -1,7 +1,7 @@
 # ML01 project | License Overview
 
 This project uses multiple licenses for different categories of files.
-The main license is MIT (see the `LICENSE` file), but other parts of the project use Creative Commons licenses.
+The main license is MIT but other parts of the project use Creative Commons licenses.
 
 Below is the complete list of licenses used in the repository.
 
