@@ -216,7 +216,7 @@ ML01/
 ├── 05_images/
 │   ├── product/
 │   ├── assembly/
-│   ├──  usage/
+│   ├── usage/
 │   └── LICENSE_images.md
 │
 ├── CHANGELOG.md
