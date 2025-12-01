@@ -37,14 +37,14 @@ Below is the complete list of licenses used in the repository.
 ## Hardware
 - **License:** CC BY-NC-SA 4.0  
 - **Files:** `03_hardware/*.pdf`  
-- **Full text:** [03_hadware/LICENSE_hardware.md](03_hadware/LICENSE_hardware.md)
+- **Full text:** [03_hardware/LICENSE_hardware.md](03_hardware/LICENSE_hardware.md)
 
 ---
 
 ## Bill of Materials (BOM)
 - **License:** CC BY-SA 4.0  
 - **Files:** `03_hardware/*.ods`  
-- **Full text:** [03_hadware/LICENSE_bom.md](03_hadware/LICENSE_bom.md)
+- **Full text:** [03_hardware/LICENSE_bom.md](03_hardware/LICENSE_bom.md)
 
 ---
 
