@@ -123,15 +123,16 @@ Switch modes using the 2 physical buttons OR use the wireless web interface
 
 ML01 uses a **multi-license** & **balanced open source model**
 
-| Category      | License         | File Types    | Commercial use |
-|---------------|-----------------|---------------|----------------|
-| Firmware      | MIT             | `.py` `.html` | ✅ Allowed     |
-| BOM           | CC BY-SA 4.0    | `.ods`        | ✅ Allowed     |
-| Costs         | Free use        | `.pdf`        | ❌ Not allowed |
-| 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp` | ❌ Not allowed |
-| Documentation | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
-| Images        | CC BY-NC-SA 4.0 | `.png` `.jpg` | ❌ Not allowed |
-| Schematics    | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
+| Category      | License         | File Types      | Commercial use   |
+|---------------|-----------------|-----------------|------------------|
+| Firmware      | MIT             | `.py` `.html`   | ✅ Allowed       |
+| BOM           | CC BY-SA 4.0    | `.ods`          | ✅ Allowed       |
+| Costs         | Free use        | `.pdf`          | 🚫 Not allowed   |
+| 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp`   | 🚫 Not allowed   |
+| Documentation | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   |
+| Images        | CC BY-NC-SA 4.0 | `.png` `.jpg`   | 🚫 Not allowed   |
+| Schematics    | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   |
+| PCB Sources   | Proprietary     | Kicad & Gerbers | ❌ Not available |
 
 ### 🔒 PCB sources remain proprietary
 
