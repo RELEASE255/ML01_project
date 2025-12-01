@@ -130,9 +130,10 @@ ML01 uses a **multi-license** & **balanced open source model**
 | Costs         | Free use        | `.ods`        | ❌ Not allowed |
 | 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp` | ❌ Not allowed |
 | Documentation | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
+| Images        | CC BY-NC-SA 4.0 | `.png` `.jpg` | ❌ Not allowed |
 | Schematics    | CC BY-NC-SA 4.0 | `.pdf`        | ❌ Not allowed |
 
-### 🔒 PCB SOURCES REMAIN PROPRIETARY
+### 🔒 PCB sources remain proprietary
 
 In order to preserve the value of the design, guarantee independence, sustainability and the protection of creators, the following elements are not available:
 
@@ -140,6 +141,26 @@ In order to preserve the value of the design, guarantee independence, sustainabi
 - PCB routing & layout
 - Gerber files
 - 3D model of the actual PCB
+
+### Third-Party Dependencies and Licenses
+
+The ML01 firmware uses two essential external components:
+
+#### **MicroPython**
+ML01 runs on MicroPython, a Python interpreter optimized for microcontrollers.
+- **License MIT**
+- **Author:** Damien P. George and contributors
+- **Official website:** https://micropython.org
+MicroPython © 2013-2025 Damien P. George — Licensed under the MIT License.
+ℹ️ No MicroPython code is directly redistributed in this repository.
+
+#### **Microdot**
+Microdot is an ultra-lightweight web micro-framework used for the ML01 kit's HTML interface.
+- **License MIT**
+- **Author:** Miguel Grinberg
+- **Official Repository:** https://github.com/miguelgrinberg/microdot
+Microdot © Miguel Grinberg — Licensed under the MIT License.
+ℹ️ ML01 includes a copy of the `microdot.py` file in the `02_firmware/` folder to ensure compatibility and facilitate installation.
 
 ---
 
@@ -167,32 +188,36 @@ Let's explore cross-promotion, joint tutorials, shared tools, or group orders.
 ```
 ML01/
 ├── 01_docs/
+│   ├── LICENSE_docs.md
 │   ├── assembly.pdf
 │   ├── costs.ods
-│   ├── LICENSE_docs
 │   ├── settings.pdf
 │   └── specifications.pdf
 │
 ├── 02_firmware/
+│   ├── LICENSE_firmware.md
+│   ├── LICENSE_microdot
+│   ├── LICENSE_micropython
 │   ├── index.html
-│   ├── LICENSE_firmware
 │   ├── main.py
 │   └── microdot.py
 │
 ├── 03_hardware/
+│   ├── LICENSE_bom.md
+│   ├── LICENSE_hardware.md
 │   ├── BOM.ods
-│   ├── LICENSE_hardware
 │   └── schematics.pdf
 │
 ├── 04_3d/
+│   ├── LICENSE_3d.md
 │   ├── board_stand.stl
-│   ├── board_stand.stp
-│   └── LICENSE_3d
+│   └── board_stand.stp
 │
 ├── 05_images/
 │   ├── product/
 │   ├── assembly/
-│   └── usage/
+│   ├──  usage/
+│   └── LICENSE_images.md
 │
 ├── CHANGELOG.md
 ├── LICENSE.md
