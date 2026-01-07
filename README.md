@@ -211,7 +211,7 @@ ML01/
 │   ├── BOM.ods
 │   └── schematics.pdf
 │
-├── 04_3d/
+├── 04_3dmodels/
 │   ├── LICENSE_3d.md
 │   ├── board_stand.stl
 │   └── board_stand.stp
