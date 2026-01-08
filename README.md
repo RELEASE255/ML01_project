@@ -223,8 +223,8 @@ ML01/
 │   ├── LICENSE_docs.md
 │   ├── ML01v01-assembly-version01.md
 │   ├── ML01v01-costs-version01.pdf
-│   ├── ML01v01-settings-version01.nd
-│   ├── ML01v01-specifications-version01.nd
+│   ├── ML01v01-settings-version01.md
+│   ├── ML01v01-specifications-version01.md
 │   └── ML01v01-usage-version01.md
 │
 ├── 02_firmware/
