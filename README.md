@@ -101,7 +101,7 @@
 # 📚 Documentation
 
 ## Specifications
-See the following document [Specifications](01_docs/ML01v01-specifications-version01.md)
+See the document [Specifications](01_docs/ML01v01-specifications-version01.md)
 
 ## Quick Start
 1. **Solder** all components following the guide (⏱️ ~ 5 hours)
@@ -119,7 +119,7 @@ Follow the complet guide to [Assembly](01_docs/ML01v01-assembly-version01.md)
 Follow the complet guide to edit [Settings](01_docs/ML01v01-settings-version01.md)
 
 ## Control & consult logs
-Using the 2 physical buttons or the web interface, see the following document [Usage](01_docs/ML01v01-usages-version01.md)
+Using the 2 physical buttons or the web interface, see the document [Usage](01_docs/ML01v01-usages-version01.md)
 
 ---
 
