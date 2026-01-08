@@ -8,7 +8,8 @@
 [![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENSE.md)
 
 <p align="center">
-<img src="05_images/product/ml01-product-01.png" width="700" alt="ML01 Main image">
+<img src="05_images/product/ml01-product-01.png" width="700"><br>
+<sub>L01 Main image</sub>
 </p>
 
 ---
