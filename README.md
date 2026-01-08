@@ -7,8 +7,9 @@
 [![Costs](https://img.shields.io/badge/Costs-Transparent-brightgreen?style=flat-square)](01_docs/costs.pdf)
 [![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENSE.md)
 
-![ML01 main photo](05_images/product/ML01_main_photo.jpg)
-<img src="05_images/product/ml01-product-01.png" width="800" alt="Main image">
+<p align="center">
+<img src="05_images/product/ml01-product-01.png" width="700" alt="ML01 Main image">
+</p>
 
 ---
 
@@ -55,28 +56,35 @@
 
 #### 🛒 Complete Kit available on Tindie
 
-![ML01 Kit](05_images/assembly/ML01_kit.jpg)
+<p align="center">
+<img src="05_images/product/ml01-product-01.png" width="700" alt="ML01 Complete DIY kit packaging">
+</p>
 
 ---
 
 # 📸 Gallery
 
 <p align="center">
-  <img src="05_images/assembly/ML01_bare_pcb.jpg" width="45%">
-  <img src="05_images/assembly/ML01_soldering.jpg" width="45%">
+  <img src="05_images/product/ml01-product-08.png" width="45%" alt="Bare PCB front view">
+  <img src="05_images/product/ml01-product-09.jpg" width="45%" alt="DIY soldering THT components">
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ML01_remote.jpg" width="100%">
+  <img src="05_images/product/ml01-product-06.png" width="45%" alt="PCB stand with cable holding">
+  <img src="05_images/assembly/ML01_soldering.jpg" width="45%" alt="Choice of orientation on the stand">
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ML01_log.jpg" width="100%">
+  <img src="05_images/usage/ml01-usage-remote-01.png" width="100%" alt="Web interface for remote control">
 </p>
 
 <p align="center">
-  <img src="05_images/product/ML01_3dview.jpg" width="45%">
-  <img src="05_images/product/ML01_mode1.jpg" width="45%">
+  <img src="05_images/usage/ml01-usage-logs-01.png" width="100%" alt="Web interface for log monitoring">
+</p>
+
+<p align="center">
+  <img src="05_images/product/ml01-product-04.png" width="45%" alt="FULL mode activated">
+  <img src="05_images/product/ml01-product-03.png" width="45%" alt="CHASE mode activated">
 </p>
 
 ---
