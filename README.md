@@ -65,13 +65,18 @@
 # 📸 Gallery
 
 <p align="center">
-  <img src="05_images/product/ml01-product-08.png" width="45%" alt="Bare PCB front view">
-  <img src="05_images/product/ml01-product-09.jpg" width="45%" alt="DIY soldering THT components">
+  <img src="05_images/product/ml01-product-08.png" width="500" alt="Bare PCB front view">
 </p>
 
 <p align="center">
+  <img src="05_images/product/ml01-product-09.jpg" width="500" alt="DIY soldering THT components">
+</p>
+
+
+
+<p align="center">
   <img src="05_images/product/ml01-product-06.png" width="45%" alt="PCB stand with cable holding">
-  <img src="05_images/assembly/ML01_soldering.jpg" width="45%" alt="Choice of orientation on the stand">
+  <img src="05_images/product/ml01-product-10.png" width="45%" alt="Choice of orientation on the stand">
 </p>
 
 <p align="center">
