@@ -57,7 +57,7 @@
 #### 🛒 Complete Kit available on Tindie
 
 <p align="center">
-<img src="05_images/product/ml01-product-07.png" width="700" alt="ML01 Complete DIY kit packaging">
+<img src="05_images/product/ml01-product-07.png" width="800" alt="ML01 Complete DIY kit packaging">
 </p>
 
 ---
@@ -89,11 +89,11 @@
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ml01-usage-remote-01.png" width="700" alt="Web interface for remote control">
+  <img src="05_images/usage/ml01-usage-remote-01.png" width="800" alt="Web interface for remote control">
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ml01-usage-logs-01.png" width="700" alt="Web interface for log monitoring">
+  <img src="05_images/usage/ml01-usage-logs-01.png" width="800" alt="Web interface for log monitoring">
 </p>
 
 ---
