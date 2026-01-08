@@ -101,7 +101,7 @@
 # 📚 Documentation
 
 ## Specifications
-See the following document [Specifications](01_docs/ML01v01-specifications-version01.md)
+See the following document [Specifications](01_docs/ML01v01-specifications-version01.md).
 
 ## Quick Start
 1. **Solder** all components following the guide (⏱️ ~ 5 hours)
@@ -113,14 +113,14 @@ See the following document [Specifications](01_docs/ML01v01-specifications-versi
 7. **Control** via web interface or the buttons
 
 ## Assembly  
-Follow the complet guide to [Assembly](01_docs/ML01v01-assembly-version01.md)
+Follow the complet guide to [Assembly](01_docs/ML01v01-assembly-version01.md).
 
 ## Configuration  
-Follow the complet guide to edit [Settings](01_docs/ML01v01-settings-version01.md)
+Follow the complet guide to edit [Settings](01_docs/ML01v01-settings-version01.md).
 
 ## Control & consult logs
-Switch modes using the 2 physical buttons OR use the wireless web interface.
-See the following document [Usage](01_docs/ML01v01-usages-version01.md)
+Switch modes using the 2 physical buttons or use the wireless web interface
+(see the following document [Usage](01_docs/ML01v01-usages-version01.md)).
 
 ---
 
