@@ -52,7 +52,7 @@
 - 01x Electro radial capacitor (100µF)
 - 01x Resettable fuse
 - 02x Push buttons
-- 01X FDM printed board stand in grey PLA
+- 01x PCB stand (not included, to be printed according to the provided 3D model)
 
 #### 🛒 Complete Kit available on Tindie
 
@@ -100,6 +100,9 @@
 
 # 📚 Documentation
 
+## Specifications
+See the following document [Specifications](01_docs/ML01v01-specifications-version01.md)
+
 ## Quick Start
 1. **Solder** all components following the guide (⏱️ ~ 5 hours)
 2. **Finishing** the PCB assembly with the cleaning
@@ -110,13 +113,14 @@
 7. **Control** via web interface or the buttons
 
 ## Assembly  
-Follow the complet guide to [Assembly](01_docs/assembly.pdf)
+Follow the complet guide to [Assembly](01_docs/ML01v01-assembly-version01.md)
 
 ## Configuration  
-Follow the complet guide to edit [Settings](01_docs/settings.pdf)
+Follow the complet guide to edit [Settings](01_docs/ML01v01-settings-version01.md)
 
-## Control  
-Switch modes using the 2 physical buttons OR use the wireless web interface
+## Control & consult logs
+Switch modes using the 2 physical buttons OR use the wireless web interface.
+See the following document [Usage](01_docs/ML01v01-usages-version01.md)
 
 ---
 
@@ -131,7 +135,7 @@ Switch modes using the 2 physical buttons OR use the wireless web interface
 
 # 🌐 Ecosystem
 
-- **Official website** *(your-site.com)*
+- **Official website** *https://release255.com/*
 - **Buy the kit** *(Tindie link)*
 - **3d stand** *(Printables link)*
 - **Community** *(Mastodon link)*
@@ -149,7 +153,7 @@ ML01 uses a **multi-license** & **balanced open source model**
 | BOM           | CC BY-SA 4.0    | `.ods`          | ✅ Allowed       |
 | Costs         | Free use        | `.pdf`          | 🚫 Not allowed   |
 | 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp`   | 🚫 Not allowed   |
-| Documentation | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   |
+| Documentation | CC BY-NC-SA 4.0 | `.pdf` `.md`    | 🚫 Not allowed   |
 | Images        | CC BY-NC-SA 4.0 | `.png` `.jpg`   | 🚫 Not allowed   |
 | Schematics    | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   |
 | PCB Sources   | Proprietary     | Kicad & Gerbers | ❌ Not available |
