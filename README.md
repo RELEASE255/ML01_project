@@ -8,6 +8,7 @@
 [![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENSE.md)
 
 ![ML01 main photo](05_images/product/ML01_main_photo.jpg)
+<img src="05_images/product/ml01-product-01.png" width="800" alt="Main image">
 
 ---
 
