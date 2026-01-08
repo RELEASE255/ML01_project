@@ -36,7 +36,7 @@
 - **100% DIY THT** | Perfect for beginners and maker who wish to assemble or repair their product
 - **Upgradable Firmware** | New modes and features can be added anytime
 - **Easy Powered** | Works with the included 12.5 W PSU or via USB
-- **Budget Friendly** | Transparent and moderate costs coupled with low consumption (~1 Wh)
+- **Budget Friendly** | Transparent and moderate costs coupled with low consumption (~1.25 Wh)
 
 ---
 
