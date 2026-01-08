@@ -9,16 +9,8 @@
 
 <p align="center">
 <img src="05_images/product/ml01-product-01.png" width="700"><br>
-<sub><i>ML01 Main image</i></sub>
+<sub>ML01 Main image</sub>
 </p>
-
-<figure>
-  <p align="center">
-    <img src="05_images/product/ml01-product-01.png" width="700">
-    <br>
-    <figcaption align="center"><i>ML01 Main image</i></figcaption>
-  </p>
-</figure>
 
 ---
 
@@ -66,7 +58,8 @@
 #### 🛒 Complete Kit available on Tindie
 
 <p align="center">
-<img src="05_images/product/ml01-product-07.png" width="800" alt="ML01 Complete DIY kit packaging">
+<img src="05_images/product/ml01-product-07.png" width="800"><br>
+<sub>Complete DIY kit packaging</sub>
 </p>
 
 ---
@@ -74,35 +67,43 @@
 # 📸 Gallery
 
 <p align="center">
-  <img src="05_images/product/ml01-product-08.png" width="500" alt="Bare PCB front view">
+  <img src="05_images/product/ml01-product-08.png" width="500"><br>
+<sub>Bare PCB front view</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-product-09.jpg" width="500" alt="DIY soldering THT components">
+  <img src="05_images/product/ml01-product-09.jpg" width="500"><br>
+<sub>DIY soldering THT components</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-product-10.png" width="500" alt="Choice of orientation on the stand">
+  <img src="05_images/product/ml01-product-10.png" width="500"><br>
+<sub>Choice of orientation on the stand</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-product-06.png" width="500" alt="PCB stand with cable holding">
+  <img src="05_images/product/ml01-product-06.png" width="500"><br>
+<sub>PCB stand with cable holding</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-product-03.png" width="500" alt="CHASE mode activated">
+  <img src="05_images/product/ml01-product-03.png" width="500"><br>
+<sub>CHASE mode activated</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-product-04.png" width="500" alt="FULL mode activated">
+  <img src="05_images/product/ml01-product-04.png" width="500"><br>
+<sub>FULL mode activated</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ml01-usage-remote-01.png" width="800" alt="Web interface for remote control">
+  <img src="05_images/usage/ml01-usage-remote-01.png" width="800"><br>
+<sub>Web interface for remote control</sub>
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ml01-usage-logs-01.png" width="800" alt="Web interface for log monitoring">
+  <img src="05_images/usage/ml01-usage-logs-01.png" width="800"><br>
+<sub>Web interface for log monitoring</sub>
 </p>
 
 ---
