@@ -57,7 +57,7 @@
 #### 🛒 Complete Kit available on Tindie
 
 <p align="center">
-<img src="05_images/product/ml01-product-01.png" width="700" alt="ML01 Complete DIY kit packaging">
+<img src="05_images/product/ml01-product-09.png" width="700" alt="ML01 Complete DIY kit packaging">
 </p>
 
 ---
@@ -72,24 +72,28 @@
   <img src="05_images/product/ml01-product-09.jpg" width="500" alt="DIY soldering THT components">
 </p>
 
-
-
 <p align="center">
-  <img src="05_images/product/ml01-product-06.png" width="45%" alt="PCB stand with cable holding">
-  <img src="05_images/product/ml01-product-10.png" width="45%" alt="Choice of orientation on the stand">
+  <img src="05_images/product/ml01-product-06.png" width="500" alt="PCB stand with cable holding">
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ml01-usage-remote-01.png" width="100%" alt="Web interface for remote control">
+  <img src="05_images/product/ml01-product-10.png" width="500" alt="Choice of orientation on the stand">
 </p>
 
 <p align="center">
-  <img src="05_images/usage/ml01-usage-logs-01.png" width="100%" alt="Web interface for log monitoring">
+  <img src="05_images/usage/ml01-usage-remote-01.png" width="700" alt="Web interface for remote control">
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-product-04.png" width="45%" alt="FULL mode activated">
-  <img src="05_images/product/ml01-product-03.png" width="45%" alt="CHASE mode activated">
+  <img src="05_images/usage/ml01-usage-logs-01.png" width="700" alt="Web interface for log monitoring">
+</p>
+
+<p align="center">
+  <img src="05_images/product/ml01-product-04.png" width="500" alt="FULL mode activated">
+</p>
+
+<p align="center">
+  <img src="05_images/product/ml01-product-03.png" width="500" alt="CHASE mode activated">
 </p>
 
 ---
