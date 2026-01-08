@@ -9,7 +9,7 @@
 
 <p align="center">
 <img src="05_images/product/ml01-product-01.png" width="700"><br>
-<sub>ML01 Main image</sub>
+<sub><i>ML01 Main image</i></sub>
 </p>
 
 <figure>
