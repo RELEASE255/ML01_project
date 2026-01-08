@@ -9,8 +9,16 @@
 
 <p align="center">
 <img src="05_images/product/ml01-product-01.png" width="700"><br>
-<sub>L01 Main image</sub>
+<sub>ML01 Main image</sub>
 </p>
+
+<figure>
+  <p align="center">
+    <img src="05_images/product/ml01-product-01.png" width="700">
+    <br>
+    <figcaption align="center"><i>ML01 Main image</i></figcaption>
+  </p>
+</figure>
 
 ---
 
