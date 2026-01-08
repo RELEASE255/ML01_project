@@ -55,8 +55,6 @@
 - 02x Push buttons
 - 01x PCB stand (not included, to be printed according to the provided 3D model)
 
-#### 🛒 Complete Kit available on Tindie
-
 <p align="center">
 <img src="05_images/product/ml01-product-07.png" width="800"><br>
 <sub>Complete DIY kit packaging</sub>
@@ -223,10 +221,11 @@ Let's explore cross-promotion, joint tutorials, shared tools, or group orders.
 ML01/
 ├── 01_docs/
 │   ├── LICENSE_docs.md
-│   ├── assembly.pdf
-│   ├── costs.pdf
-│   ├── settings.pdf
-│   └── specifications.pdf
+│   ├── ML01v01-assembly-version01.md
+│   ├── ML01v01-costs-version01.pdf
+│   ├── ML01v01-settings-version01.nd
+│   ├── ML01v01-specifications-version01.nd
+│   └── ML01v01-usage-version01.md
 │
 ├── 02_firmware/
 │   ├── LICENSE_firmware.md
@@ -248,8 +247,9 @@ ML01/
 │   └── board_stand.stp
 │
 ├── 05_images/
-│   ├── product/
 │   ├── assembly/
+│   ├── product/
+│   ├── settings/
 │   ├── usage/
 │   └── LICENSE_images.md
 │
