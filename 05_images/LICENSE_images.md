@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-Copyright (c) 2025 RELEASE255
+Copyright (c) 2026 RELEASE255
 
 This license applies to all images and photos contained in this directory.
 
