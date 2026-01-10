@@ -1,8 +1,10 @@
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-Copyright (c) 2025 RELEASE255
+Copyright (c) RELEASE255
 
-This license applies to the electronic schematics provided in this repository (including all PDF schematics).
+This license applies to all electronic schematics contained in this directory.
 
 To view a copy of this license, visit:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
