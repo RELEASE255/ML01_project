@@ -68,6 +68,12 @@
   <sub>Légende image 3</sub>
 </p>
 
+<p align="center">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230" style="margin-right: 10px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230" style="margin-right: 10px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230" style="margin-right: 10px;">
+</p>
+
 ### B3. TPIC6B595N Shift Registers (2×)
 **Difficulty level: easy**
 **01.** Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
