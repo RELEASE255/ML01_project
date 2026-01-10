@@ -61,8 +61,11 @@ Access the [BOM](../03_hardware/ML01-bom.pdf)
 </p>
 
 <p align="center">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="250">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="250">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="198">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
   <br>
   <sub>Légende image 1</sub>
   <sub>Légende image 3</sub>
