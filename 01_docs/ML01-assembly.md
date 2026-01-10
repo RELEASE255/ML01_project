@@ -235,7 +235,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 ⚠️ **Correct orientation is essential**
 - **01.** Identify capacitor polarity:  
         - **Longer lead = Positive (+)**<br>
-        - **Shorter lead = Negative (−)**, marked with stripe on capacitor body<br>
+        - **Shorter lead = Negative (−)** and marked with stripe on capacitor body<br>
         - **PCB silkscreen:** "+" symbol indicated
 - **02.** Insert capacitor with correct polarity.
 - **03.** Flip the PCB on the soldering mat an use foam to tackle the component to the PCB.  
@@ -293,19 +293,13 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
   <img src="../05_images/assembly/ml01-assembly-d3-post-assembly-01.jpg" width="700">
 </p>
 
-<p align="center">
-🎉 **CONGRATULATIONS** 🎉  
-**Your ML01 PCB assembly is complete but don't power on yet.**
-</p>
----
-
-
-## E. NEXT STEPS
+### 🎉 CONGRATULATIONS: your ML01 PCB assembly is complete but don't power on yet.
 - **01.** Install 3D-printed stand to secure and display PCB.
-- **02.** Refer to the next docuement [SETTINGS](01_docs/ML01-settings.md) to:  
+- **02.** Refer to the next document [SETTINGS](01_docs/ML01-settings.md) to:  
         - Flash the MicroPython firmware.<br>
         - Configure and transfer programs to your pico.
 ---
+
 
 *Revision date: 2026.01.10*<br>
 © RELEASE255 | All rights reserved
