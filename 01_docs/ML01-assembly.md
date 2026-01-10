@@ -43,7 +43,7 @@
 - **ESD Protection:** Handle the components with antistatic precautions.
 
 ### B2. Resistors (16×)
-**Difficulty level: easy**  
+**Difficulty level: easy**
 - **01.** Bend the resistor leads at a 90° angle to match PCB pad spacing.
 - **02.** Pre-form all 16 resistors to ensure consistent placement and centering on the PCB.
 - **03.** Pre-cut leads so they protrude approximately 6 mm from the PCB to maximize access.
