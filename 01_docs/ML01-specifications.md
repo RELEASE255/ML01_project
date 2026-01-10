@@ -24,6 +24,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - **FULL mode:** all 16 LEDs ON continuously
 - **CHASE mode:** dynamic LED animation sequence synchromnized with Time NTP server
 - **OFF mode:** all LEDs OFF  
+<br>
 *This open source project allows you to completely reprogram the microcontroller according to your needs.*
 
 ### A2. User Button Actions
@@ -100,6 +101,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - Micro USB output connector
 - Available only with EU power socket
 - White color  
+<br>
 *Can alternatively be powered via USB port from computer.*
 
 ### B8. LED Driving
@@ -176,8 +178,8 @@ Same connections as first TPIC apart from the differences below:
 - Flash via USB mass storage mode
 
 ### D2. Program Structure
-- `main.py`: main control program, download last version [here](../02_firmware/).
-- `index.html`: web interface for remote control and log viewing/exporting, download last version [here](../02_firmware/).
+- `main.py`: main control program, download last version [here](../02_firmware/)
+- `index.html`: web interface for remote control and log viewing/exporting, download last version [here](../02_firmware/)
 - `microdot.py` : lightweight web server, download last version [here](https://github.com/miguelgrinberg/microdot)
 
 ### D3. Dependencies and References
@@ -191,7 +193,7 @@ Same connections as first TPIC apart from the differences below:
 ## E. ENCLOSURE CONSIDERATIONS (to be printed according to provided 3D files)
 **This is an open PCB design:**
 - The PCB stand allows 2 possible tilt angles: 80° and 60°.
-- The PCB stand must be printed according to the file provided [here](../04_3dmodels/).
+- The PCB stand must be printed according to the file provided [here](../04_3dmodels/)
 - The ML01 project deliberately does not include a fully enclosed protective case at this stage.
 - This design choice allows all electronic components to remain visible, which is valuable for:  
         - Educational purposes and learning electronics<br>
