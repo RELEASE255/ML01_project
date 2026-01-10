@@ -30,7 +30,7 @@
 
 ### A5. Check that you have all the components listed in the BOM
 - Refer to the [BOM](../03_hardware/ML01-bom.pdf).  
-- Note: The stand for PCB is not included in the kit and must be printed according to the provided 3D file.
+- Note: the stand for PCB is not included in the kit and must be printed according to the provided 3D file.
 ---
 
 
@@ -62,10 +62,10 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 </p>
 
 ### B4. PTC Resettable Fuse (1x) and Electrolytic Capacitor (1x)
-This operation is optional: if you prefer to keep these 2 components straight, you don't need to bend the leads, the function will be the same.  
-**Difficulty level: medium**
+**Difficulty level: medium**  
+ℹ️ If you prefer to keep these 2 components straight, you don't need to bend the leads.
 - **01.** Bend the resettable fuse leads at a 90° as shown in the photo, in order to minimize its size after welding.
-- **02.** Bend the electrolytic capacitor **(polarized, so pay attention to the mounting orientation)** leads at a 90° for the same reason as before.
+- **02.** Bend the electrolytic capacitor polarized **(so pay attention to the mounting orientation)** for the same reason as before.
 
 <p align="center">
   <img src="../05_images/assembly/ml01-assembly-b4-capacitor-01.jpg" width="333">
