@@ -1,6 +1,8 @@
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-Copyright (c) 2025 RELEASE255
+Copyright (c) RELEASE255
 
 This license applies to all documentation files contained in this directory.
 
