@@ -69,9 +69,9 @@
 </p>
 
 <p align="center">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230" style="margin-right: 10px;">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230" style="margin-right: 10px;">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230" style="margin-right: 10px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230" style="margin-right: 20px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230" style="margin-right: 20px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230" style="margin-right: 20px;">
 </p>
 
 ### B3. TPIC6B595N Shift Registers (2×)
