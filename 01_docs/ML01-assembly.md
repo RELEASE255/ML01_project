@@ -29,7 +29,7 @@
 - Safety glasses (protection from flying component leads and flux remover spray)
 
 ### A5. Check that you have all the components listed in the BOM
-- Access the [BOM](../03_hardware/ML01-bom.pdf)  
+Access to the [BOM](../03_hardware/ML01-bom.pdf)  
 Note: The stand for PCB is not included in the kit and must be printed according to the provided 3D file.
 ---
 
