@@ -166,6 +166,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 ### C5. Raspberry Pi Pico 2W
 **Difficulty level: medium**  
+<br>
 ⚠️ **Correct orientation is essential**
 - **01.** Identify correct orientation on PCB silkscreen:  
         - **Micro-USB connector** should align with PCB marking.<br>
@@ -186,16 +187,18 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 ### C6. LEDs (16× Yellow 5mm)
 **Difficulty level: tricky**  
+<br>
 ⚠️ **Correct orientation is essential**  
+<br>
 🐢 **Take your time because proper alignment is critical for appearance** 🐢
 - **01.** Identify LED polarity on **each LED**:  
-        - **Long lead = Anode (+)** → toward +5V rail (check PCB silkscreen)<br>
-        - **Short lead = Cathode (−)** → toward resistor connection<br>
-        - **Flat edge on LED lens** → cathode side<br>
+        - **Long lead = Anode (+)**<br>
+        - **Short lead = Cathode (−)**<br>
+        - **Flat edge of the LED = cathode side**<br>
         - **PCB silkscreen:** align the flat edge of the LED with the flat edge marking.
 - **02.** Insert first LED (position D1) with correct polarity, then flip PCB on the soldering mat.
-- **03.** Take the time to carefully check if the LED is properly seated and straighten it if necessary:  
-        - Use foam if needed to ensure the PCB is perfectly horizontal.
+- **03.** Take the time to carefully check if the LED is properly seated and straighten it if necessary.  
+        (Use foam if needed to ensure the PCB is perfectly horizontal).
 - **04.** Gently solder without moving **one leg only** (anode recommended because it's more accessible from the outside).
 - **05.** Repeat steps 01-04 for remaining 15 LEDs by depositing them symmetrically to be as stable as possible:  
         - Led D2, then D16, then D15, then D3, then D4, then D14, etc.<br>
@@ -218,7 +221,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
         - Fuse is **non-polarized** (orientation doesn't matter).<br>
         - **Leave leads long** (~10-15 mm from PCB surface before bending).
 - **02.** Flip the PCB on the soldering mat an use foam to tackle the component to the PCB  
-        (or use PCB stand for easier handling if you keep the components straight)
+        (or use PCB stand for easier handling if you keep the components straight).
 - **03.** Solder both fuse leads from underside.
 - **04.** Trim 2 leads, leaving ~2 mm protruding.
 
@@ -228,14 +231,15 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 ### C8. Electrolytic Capacitor (1× 100µF)
 **Difficulty level: easy**  
+<br>
 ⚠️ **Correct orientation is essential**
 - **01.** Identify capacitor polarity:  
         - **Longer lead = Positive (+)**<br>
-        - **Shorter lead = Negative (−)** (marked with stripe on capacitor body)<br>
-        - **PCB silkscreen:** "+" symbol
+        - **Shorter lead = Negative (−)**, marked with stripe on capacitor body<br>
+        - **PCB silkscreen:** "+" symbol indicated
 - **02.** Insert capacitor with correct polarity.
 - **03.** Flip the PCB on the soldering mat an use foam to tackle the component to the PCB.  
-        (or use PCB stand for easier handling if you keep the components straight)
+        (or use PCB stand for easier handling if you keep the components straight).
 - **04.** Solder both capacitor leads from underside.
 - **05.** Trim 2 leads, leaving ~2 mm protruding.
 ---
@@ -289,7 +293,10 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
   <img src="../05_images/assembly/ml01-assembly-d3-post-assembly-01.jpg" width="700">
 </p>
 
-🎉 **CONGRATULATIONS 🎉 Your ML01 PCB assembly is complete but don't power on yet.**
+<p align="center">
+🎉 **CONGRATULATIONS** 🎉  
+**Your ML01 PCB assembly is complete but don't power on yet.**
+</p>
 ---
 
 
@@ -300,5 +307,5 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
         - Configure and transfer programs to your pico.
 ---
 
-*Document revision date: 2026.01.10*<br>
+*Revision date: 2026.01.10*<br>
 © RELEASE255 | All rights reserved
