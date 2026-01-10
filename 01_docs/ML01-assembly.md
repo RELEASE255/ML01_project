@@ -48,24 +48,21 @@ Access the [BOM](../03_hardware/ML01-bom.pdf)
 **03.** Pre-cut leads so they protrude approximately 6 mm from the PCB to maximize access.
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="250"></td>
-      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="250"></td>
-    </tr>
-    <tr>
-      <td align="center"><sub>01 & 02</sub></td>
-      <td align="center"><sub>03</sub></td>
-    </tr>
-  </table>
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="245">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="245">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="245">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="245">
+  <br>
+  <sub>Légende image 1</sub>
+  <sub>Légende image 3</sub>
 </p>
 
 <p align="center">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="198">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="198">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="190">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="190">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="190">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="190">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="190">
   <br>
   <sub>Légende image 1</sub>
   <sub>Légende image 3</sub>
