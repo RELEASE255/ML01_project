@@ -24,8 +24,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - **FULL mode:** all 16 LEDs ON continuously
 - **CHASE mode:** dynamic LED animation sequence synchromnized with Time NTP server
 - **OFF mode:** all LEDs OFF  
-<br>
-*This open source project allows you to completely reprogram the microcontroller according to your needs.*
+- **OTHER modes:** also you could completely reprogram the microcontroller according to your needs.
 
 ### A2. User Button Actions
 **Button 1:**
@@ -100,9 +99,8 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - 1.5m 18AWG captive cable
 - Micro USB output connector
 - Available only with EU power socket
-- White color  
-<br>
-*Can alternatively be powered via USB port from computer.*
+- White color
+- Can alternatively be powered via USB port from computer.
 
 ### B8. LED Driving
 - Open-drain low-side switching via TPIC6B595
