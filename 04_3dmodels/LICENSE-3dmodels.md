@@ -1,8 +1,10 @@
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-Copyright (c) 2025 RELEASE255
+Copyright (c) RELEASE255
 
-This license applies to the 3D models in this folder including .stl and .stp files.
+This license applies to all 3D model files contained in this directory.
 
 To view a copy of this license, visit:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
