@@ -139,8 +139,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 ### C3. Ceramic Capacitors (7×)
 **Difficulty level: easy**
-- **01.** Insert all 7 ceramic capacitors into their designated positions:  
-        - Ceramic capacitors are **non-polarized** (orientation doesn't matter).
+- **01.** Insert all 7 ceramic capacitors non-polarized (orientation doesn't matter) into their designated positions.
 - **02.** Use PCB stand for easier handling during soldering.
 - **03.** Solder all capacitor leads from the underside.
 - **04.** Trim excess leads.
