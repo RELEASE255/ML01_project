@@ -29,7 +29,7 @@
 - Safety glasses (protection from flying component leads and flux remover spray)
 
 ### A5. Check that you have all the components listed in the BOM
-- Refer to the [BOM](../03_hardware/ML01-bom.pdf).  
+- Refer to the [BOM](../03_hardware/ML01-bom.pdf).
 - Note: the stand for PCB is not included in the kit and must be printed according to the provided 3D file.
 ---
 
@@ -62,8 +62,8 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 </p>
 
 ### B4. PTC Resettable Fuse (1x) and Electrolytic Capacitor (1x)
-**Difficulty level: medium**  
-ℹ️ If you prefer to keep these 2 components straight, you don't need to bend the leads.
+ℹ️ If you prefer to keep these 2 components straight, you don't need to bend the leads.  
+**Difficulty level: medium**
 - **01.** Bend the resettable fuse leads at a 90° as shown in the photo, in order to minimize its size after welding.
 - **02.** Bend the electrolytic capacitor polarized **(so pay attention to the mounting orientation)** for the same reason as before.
 
@@ -72,7 +72,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
   <img src="../05_images/assembly/ml01-assembly-b4-ptc-01.jpg" width="333">
 </p>
 
-## B5. Soldering Temperature Setup
+### B5. Soldering Temperature Setup
 - **01.** Set soldering iron to 360°C (680°F) for lead-free Sn99.3Cu0.7 solder.
 - **02.** Allow a few minutes for the iron to reach stable temperature.
 - **03.** Clean tip with metal wool & damp sponge before starting.
@@ -80,13 +80,14 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 
 ## C. ASSEMBLY (COMPONENT PLACEMENT AND SOLDERING)
-**General tips:**  
-- Solder one lead of the small components (two diagonally for the larger ones) and check its correct positioning before soldering the other leads.
+**General tips:**
+- Solder one lead (or 2 diagonally for the larger components) and check its correct positioning before soldering the other leads.
 - Regularly trim soldered component leads to maximize workspace.
-- Use the "flip and press" method for components that don't hold themselves: insert components, flip PCB onto mat, solder from underside.
-- Don't hesitate to use foam or shims to align the PCB horizontally as best as possible when it's upside down on the mat and ensure ideal component placement.
-- For the others, use the PCB holder/stand.
-**Summary of the assembly order:**  
+- Use the "flip and press" method for components that don't hold themselves: insert components, flip PCB onto mat, and solder.
+- Use foam or shims to align the PCB horizontally as best as possible to ensure ideal component placement.
+- For the others, use the PCB holder/stand.  
+
+**Summary of the assembly order:**
 - **01.** Resistors
 - **02.** TPIC6B595N (Power Shift Registers)
 - **03.** Ceramic Capacitors
@@ -97,9 +98,9 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 - **08.** Electrolytic Capacitor
 
 ### C1. Resistors (16×)
-**Difficulty level: easy**  
-- **01.** Insert all 16 resistors into their designated positions on the PCB.
-        - Resistors are **non-polarized** (orientation doesn't matter).
+**Difficulty level: easy**
+- **01.** Insert all 16 resistors into their designated positions on the PCB.  
+        - Resistors are **non-polarized** (orientation doesn't matter).<br>
         - Ensure resistor bodies sit flat against the PCB surface.
 - **02.** Flip the PCB over and place it firmly on the soldering mat.
 - **03.** Solder all resistor leads on the underside of the PCB.
