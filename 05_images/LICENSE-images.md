@@ -1,8 +1,8 @@
-CC BY-NC-SA 4.0
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-Copyright (c) 2026 RELEASE255
+Copyright (c) RELEASE255
 
 This license applies to all images and photos contained in this directory.
 
