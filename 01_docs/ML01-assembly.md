@@ -1,6 +1,7 @@
 # ML01 PROJECT – ASSEMBLY GUIDE
 **Recommended time: ~5 hours** depending on experience and available materials.
 
+
 ## A. REQUIRED MATERIALS
 ### A1. Soldering Equipment
 - Soldering iron with temperature control (power of approximately 65W)
