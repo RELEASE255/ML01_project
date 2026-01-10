@@ -29,7 +29,8 @@
 - Safety glasses (protection from flying component leads and flux remover spray)
 
 ### A5. Check that you have all the components listed in the BOM
-- Access the [BOM](../03_hardware/ML01-bom.pdf)
+- Access the [BOM](../03_hardware/ML01-bom.pdf)  
+Note: The stand for PCB is not included in the kit and must be printed according to the provided 3D file.
 ---
 
 
@@ -54,7 +55,7 @@
 
 ### B3. TPIC6B595N Shift Registers (2×)
 **Difficulty level: easy**  
-- **01.** Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
+Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 <p align="center">
   <img src="../05_images/assembly/ml01-assembly-b3-tpic-01.png" width="333">
