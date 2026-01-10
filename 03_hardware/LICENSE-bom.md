@@ -1,8 +1,10 @@
+SPDX-License-Identifier: CC-BY-SA-4.0
+
 Creative Commons Attribution-ShareAlike 4.0 International License
 
-Copyright (c) 2025 RELEASE255
+Copyright (c) RELEASE255
 
-This license applies to the Bill of Materials (BOM) included with this project.
+This license applies to all Bill of Materials (BOM) files contained in this directory.
 
 To view a copy of this license, visit:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
