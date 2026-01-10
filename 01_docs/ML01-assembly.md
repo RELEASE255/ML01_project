@@ -50,8 +50,8 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230"></td>
-      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230"></td>
+      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="250"></td>
+      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="250"></td>
     </tr>
     <tr>
       <td align="center"><sub>01 & 02</sub></td>
@@ -61,17 +61,17 @@
 </p>
 
 <p align="center">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="250">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="250">
   <br>
   <sub>Légende image 1</sub>
   <sub>Légende image 3</sub>
 </p>
 
 <p align="center">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="210" style="margin-right: 40px;">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="210" style="margin-right: 40px;">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="210" style="margin-right: 40px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="250" style="margin-right: 40px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="250" style="margin-right: 40px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="250" style="margin-right: 40px;">
 </p>
 
 ### B3. TPIC6B595N Shift Registers (2×)
