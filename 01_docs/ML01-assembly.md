@@ -69,9 +69,9 @@ Access the [BOM](../03_hardware/ML01-bom.pdf)
 </p>
 
 <p align="center">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="333" style="margin-right: 40px;">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="333" style="margin-right: 40px;">
-  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="333" style="margin-right: 40px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="335" style="margin-right: 40px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="335" style="margin-right: 40px;">
+  <img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="335" style="margin-right: 40px;">
 </p>
 
 ### B3. TPIC6B595N Shift Registers (2×)
