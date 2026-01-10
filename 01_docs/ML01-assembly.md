@@ -50,8 +50,8 @@
 <p align="center">
   <table>
     <tr>
-      <td align="center"><img src="05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230"></td>
-      <td align="center"><img src="05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230"></td>
+      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-01.jpg" width="230"></td>
+      <td align="center"><img src="../05_images/assembly/ml01-assembly-b2-resistors-03.jpg" width="230"></td>
     </tr>
     <tr>
       <td align="center"><sub>01 & 02</sub></td>
