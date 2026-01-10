@@ -11,7 +11,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - **ESD sensitive** | Handle with antistatic precautions
 - **No over-voltage protection** beyond PTC fuse
 - **Wi-Fi stability** depends on local environment and interference
-- **Safety Precautions while the device is powered:** *Thank you for reading the details at the end of this document.*
+- **Safety Precautions while the device is powered:** *Thank you for reading the details at the end of this document.*  
 <br>
 **The following guides are provided in separate documentation files:**
 - [Assembly guide](01_docs/ML01-assembly.md)
