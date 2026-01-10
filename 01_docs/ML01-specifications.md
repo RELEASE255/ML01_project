@@ -23,7 +23,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 ### A1. LED modes by default
 - **FULL mode:** all 16 LEDs ON continuously
 - **CHASE mode:** dynamic LED animation sequence synchromnized with Time NTP server
-- **OFF mode:** all LEDs OFF
+- **OFF mode:** all LEDs OFF  
 *This open source project allows you to completely reprogram the microcontroller according to your needs.*
 
 ### A2. User Button Actions
@@ -99,8 +99,8 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - 1.5m 18AWG captive cable
 - Micro USB output connector
 - Available only with EU power socket
-- White color
-*Can alternatively be powered via USB port from computer*
+- White color  
+*Can alternatively be powered via USB port from computer.*
 
 ### B8. LED Driving
 - Open-drain low-side switching via TPIC6B595
@@ -154,7 +154,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 | Pins 14-17 (DRAIN 4-7) | LED cathodes via 160Ω resistors          |
 | Pin 18 (SER OUT)       | Pin 3 (SER IN) of second TPIC            |
 
-**Second TPIC (chain output):**
+**Second TPIC (chain output):**  
 Same connections as first TPIC apart from the differences below:
 - Pin 3 (SER IN) ← Pin 18 (SER OUT) of first TPIC
 - Pin 18 (SER OUT) → not connected
@@ -172,13 +172,13 @@ Same connections as first TPIC apart from the differences below:
 
 ## D. SOFTWARE
 ### D1. Firmware (MicroPython for Raspberry Pi Pico 2W RP2350)
-- Download last version UF2 bootloader image [here](from https://micropython.org/download/RPI_PICO2_W/)
+- Download last version UF2 bootloader image [here](https://micropython.org/download/RPI_PICO2_W/)
 - Flash via USB mass storage mode
 
 ### D2. Program Structure
-- `main.py`: main control program
-- `index.html`: web interface for remote control and log viewing-exporting
-- `microdot.py` : lightweight web server, download last version image [here](https://github.com/miguelgrinberg/microdot)
+- `main.py`: main control program, download last version [here](../02_firmware/).
+- `index.html`: web interface for remote control and log viewing/exporting, download last version [here](../02_firmware/).
+- `microdot.py` : lightweight web server, download last version [here](https://github.com/miguelgrinberg/microdot)
 
 ### D3. Dependencies and References
 - [Raspberry Pi Pico 2W](https://www.raspberrypi.com/documentation/microcontrollers/)
@@ -191,7 +191,7 @@ Same connections as first TPIC apart from the differences below:
 ## E. ENCLOSURE CONSIDERATIONS (to be printed according to provided 3D files)
 **This is an open PCB design:**
 - The PCB stand allows 2 possible tilt angles: 80° and 60°.
-- The PCB stand must be printed according to the file provided [here]((../04_3dmodels/).
+- The PCB stand must be printed according to the file provided [here](../04_3dmodels/).
 - The ML01 project deliberately does not include a fully enclosed protective case at this stage.
 - This design choice allows all electronic components to remain visible, which is valuable for:  
         - Educational purposes and learning electronics<br>
@@ -223,7 +223,7 @@ Same connections as first TPIC apart from the differences below:
 
 **Future Enclosure Options:**
 - A protective enclosure may be offered in future revisions of this project if the need is actually confirmed.
-- Users who require additional protection may design and 3D-print their own enclosure, ensuring adequate ventilation for heat dissipation.
+- Users who require additional protection may design their own enclosure, ensuring adequate ventilation for heat dissipation.
 ---
 
 
