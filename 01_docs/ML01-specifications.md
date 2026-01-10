@@ -11,12 +11,12 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - **ESD sensitive** | Handle with antistatic precautions
 - **No over-voltage protection** beyond PTC fuse
 - **Wi-Fi stability** depends on local environment and interference
-- **Safety Precautions while the device is powered:** *Thank you for reading the details at the end of this document.*
+- **Safety Precautions while the device is powered:** thank you for reading the details at the end of this document.
 
 **The following guides are provided in separate documentation files:**
-- [Assembly guide](01_docs/ML01-assembly.md)  
-- [Settings guide](01_docs/ML01-settings.md)  
-- [Usage guide](01_docs/ML01-usages.md)
+- [ASSEMBLY guide](../01_docs/ML01-assembly.md)  
+- [SETTINGS guide](../01_docs/ML01-settings.md)  
+- [USAGE guide](../01_docs/ML01-usages.md)
 ---
 
 ## A. FUNCTIONS
@@ -28,10 +28,11 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 
 ### A2. User Button Actions
 **Button 1:**
-- Short press: cycle through modes → FULL → CHASE → OFF
-- Long press: stop script execution
+- **Short press:** cycle through modes → FULL → CHASE → OFF
+- **Long press:** stop script execution
+
 **Button 2:**
-- Long press: system reboot
+- **Long press:** system reboot
 
 ### A3. Web Interface (Microdot):
 - Lightweight HTTP server running on Raspberry Pi Pico 2W
@@ -67,16 +68,14 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - Internal pull-ups enabled in firmware
 
 ### B5. Power Conditioning
-**16× 160 Ω metal-film resistors (1% 0.6 W):**
-- Current limiting for LEDs (~18 mA per LED)
+**16× 160 Ω metal-film resistors (1% 0.6 W):** current limiting for LEDs (~18 mA per LED)
 
 **7× 100 nF ceramic capacitors (X7R, 10% tolerance):**
 - 1× per TPIC6B595N
 - 4× near LED clusters
 - 1× parallel to main electrolytic capacitor
 
-**1× 100 µF electrolytic capacitor (Ø6.30 mm, H11.20 mm):**
-- Main power input filtering (+5V to GND)
+**1× 100 µF electrolytic capacitor (Ø6.30 mm, H11.20 mm):** main power input filtering (+5V to GND)
 
 **1× resettable PTC fuse (Bourns MF-R050):**
 - Hold current: 0.5 A
@@ -86,7 +85,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - Resistance: 770 mΩ
 
 ### B6. Power Input
-| Parameter           | Value                                       |
+| PARAMETER           | VALUE                                       |
 |---------------------|---------------------------------------------|
 | Voltage             | 5.1 V DC                                    |
 | Current (FULL mode) | ~300 mA (1.5 W)                             |
@@ -117,7 +116,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - 1x 100 µF electrolytic capacitor in parallel with ceramic capacitor at main power input
 
 ### B10. PCB Specifications
-| Property           | Value              |
+| PROPERTY           | VALUE              |
 |--------------------|--------------------|
 | Dimensions         | 165 × 110 mm       |
 | Thickness          | 1.6 mm             |
@@ -131,7 +130,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 
 ## C. WIRING
 ### C1. GPIO Pin Mapping for Raspberry Pi Pico 2W
-| GPIO Pin | Function            | Connection                  |
+| GPIO PIN | FUNCTION            | CONNECTION                  |
 |----------|---------------------|-----------------------------|
 | GPIO 4   | Button 1 Input      | Push button (active LOW)    |
 | GPIO 5   | Button 2 Input      | Push button (active LOW)    |
@@ -140,8 +139,8 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 | GPIO 9   | TPIC SRCK           | Shift register clock (both) |
 
 ### C2. TPIC6B595N Pin Mapping
-**First TPIC (chain input)**
-| Pin                    | Connection                               |
+**First TPIC (chain input):**
+| PIN                    | CONNECTION                               |
 |------------------------|------------------------------------------|
 | Pin 1, 20              | Not used                                 |
 | Pin 2 (VCC)            | +5V (Pico pin 39, VSYS)                  |
@@ -155,7 +154,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 | Pins 14-17 (DRAIN 4-7) | LED cathodes via 160Ω resistors          |
 | Pin 18 (SER OUT)       | Pin 3 (SER IN) of second TPIC            |
 
-**Second TPIC (chain output)**
+**Second TPIC (chain output):**
 Same connections as first TPIC apart from the differences below:
 - Pin 3 (SER IN) ← Pin 18 (SER OUT) of first TPIC
 - Pin 18 (SER OUT) → not connected
@@ -173,25 +172,26 @@ Same connections as first TPIC apart from the differences below:
 
 ## D. SOFTWARE
 ### D1. Firmware (MicroPython for Raspberry Pi Pico 2W RP2350)
-- Download last version UF2 bootloader image from https://micropython.org/download/RPI_PICO2_W/
+- Download last version UF2 bootloader image [here](from https://micropython.org/download/RPI_PICO2_W/)
 - Flash via USB mass storage mode
 
 ### D2. Program Structure
 - `main.py`: main control program
 - `index.html`: web interface for remote control and log viewing-exporting
-- `microdot.py` : lightweight web server, download last version image from https://github.com/miguelgrinberg/microdot
+- `microdot.py` : lightweight web server, download last version image [here](https://github.com/miguelgrinberg/microdot)
 
 ### D3. Dependencies and References
-- **Raspberry Pi Pico 2W:** https://www.raspberrypi.com/documentation/microcontrollers/
-- **TPIC6B595N Datasheet:** https://www.ti.com/lit/ds/symlink/tpic6b595.pdf
-- **MicroPython:** https://docs.micropython.org/en/latest/
-- **Microdot:** https://microdot.readthedocs.io/en/latest/index.html#
+- [Raspberry Pi Pico 2W](https://www.raspberrypi.com/documentation/microcontrollers/)
+- [TPIC6B595N Datasheet](https://www.ti.com/lit/ds/symlink/tpic6b595.pdf)
+- [MicroPython](https://docs.micropython.org/en/latest/)
+- [Microdot](https://microdot.readthedocs.io/en/latest/index.html#)
 ---
 
 
 ## E. ENCLOSURE CONSIDERATIONS (to be printed according to provided 3D files)
 **This is an open PCB design:**
-- Description: PCB stand (2 possible tilt angles: 80° and 60°)
+- The PCB stand allows 2 possible tilt angles: 80° and 60°.
+- The PCB stand must be printed according to the file provided [here]((../04_3dmodels/).
 - The ML01 project deliberately does not include a fully enclosed protective case at this stage.
 - This design choice allows all electronic components to remain visible, which is valuable for:  
         - Educational purposes and learning electronics<br>
@@ -221,15 +221,16 @@ Same connections as first TPIC apart from the differences below:
 - Workbench or desk in a clean (avoid directly on the ground)
 - Display area with controlled access (away from children and pets)
 
-❔**Future Enclosure Options:**
-A protective enclosure may be offered in future revisions of this project if the need is actually confirmed.  
-For now, users who require additional protection may design and 3D-print their own enclosure, ensuring adequate ventilation for heat dissipation.
+**Future Enclosure Options:**
+- A protective enclosure may be offered in future revisions of this project if the need is actually confirmed.
+- Users who require additional protection may design and 3D-print their own enclosure, ensuring adequate ventilation for heat dissipation.
 ---
 
 
 ## F. COMPLIANCE AND STANDARDS
 This device is intended for personal, non-commercial use only.  
 Users are responsible for ensuring compliance with local regulations if used in any commercial capacity.  
+<br>
 **It has not been tested or certified to meet:**
 - CE electromagnetic compatibility standards
 - FCC Part 15 regulations
