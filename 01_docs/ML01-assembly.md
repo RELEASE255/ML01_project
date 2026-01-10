@@ -34,12 +34,12 @@
 
 
 ## B. PREPARATION
-### B1. Safety precautions
-**⚠️ Ventilation:** Work in a well-ventilated area or use a fume extractor. Do not inhale soldering fumes.  
-**⚠️ Temperature:** Soldering iron reaches 360°C – handle with care and use a proper stand.  
-**⚠️ Eye Protection:** Wear safety glasses when cutting component leads to prevent injury.  
-**⚠️ Flux Remover:** Follow manufacturer's instructions carefully. Use in ventilated area and avoid skin/eye contact.  
-**⚠️ ESD Protection:** Handle the components with antistatic precautions.
+### B1. Safety precautions ⚠️
+**- Ventilation:** Work in a well-ventilated area or use a fume extractor. Do not inhale soldering fumes.  
+**- Temperature:** Soldering iron reaches 360°C – handle with care and use a proper stand.  
+**- Eye Protection:** Wear safety glasses when cutting component leads to prevent injury.  
+**- Flux Remover:** Follow manufacturer's instructions carefully. Use in ventilated area and avoid skin/eye contact.  
+**- ESD Protection:** Handle the components with antistatic precautions.
 
 ### B2. Resistors (16×)
 **Difficulty level: easy**
