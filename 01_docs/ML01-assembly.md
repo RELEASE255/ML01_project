@@ -189,8 +189,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 **Difficulty level: tricky**  
 <br>
 ⚠️ **Correct orientation is essential**  
-<br>
-🐢 **Take your time because proper alignment is critical for appearance** 🐢
+⚠️ **Take your time because proper alignment is critical for appearance**
 - **01.** Identify LED polarity on **each LED**:  
         - **Long lead = Anode (+)**<br>
         - **Short lead = Cathode (−)**<br>
@@ -293,11 +292,9 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
   <img src="../05_images/assembly/ml01-assembly-d3-post-assembly-01.jpg" width="700">
 </p>
 
-### 🎉 CONGRATULATIONS: your ML01 PCB assembly is complete but don't power on yet.
+### 🎉 CONGRATULATIONS 🎉 Your ML01 PCB assembly is complete but don't power on yet.
 - **01.** Install 3D-printed stand to secure and display PCB.
-- **02.** Refer to the next document [SETTINGS](01_docs/ML01-settings.md) to:  
-        - Flash the MicroPython firmware.<br>
-        - Configure and transfer programs to your pico.
+- **02.** Refer to the next document [SETTINGS](01_docs/ML01-settings.md) to flash the firmware and transfer programs to your pico.
 ---
 
 
