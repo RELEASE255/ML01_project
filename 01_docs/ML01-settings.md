@@ -38,7 +38,7 @@ Before starting, ensure you have:
 - **05.** You should see the instructions below in the shell using Thonny editor:
 
 <p align="center">
-  <img src="../05_images/settings/ml01-settings-01.png" width="900">
+  <img src="../05_images/settings/ml01-settings-01.png" width="1000">
 </p>
 
 ✅ **Firmware installation successful!**
@@ -70,7 +70,7 @@ The `main.py` file contains all configuration parameters for your ML01 device.
 - **03.** You should find the configuration section around **line 37** (may vary slightly):
 
 <p align="center">
-  <img src="../05_images/settings/ml01-settings-02.png" width="900">
+  <img src="../05_images/settings/ml01-settings-02.png" width="1000">
 </p>
 
 ### D3. Configure Wi-Fi Settings
@@ -106,7 +106,7 @@ NTP_TIMEZONE_OFFSET = 1
 Locate the **Timing** section:
 
 <p align="center">
-  <img src="../05_images/settings/ml01-settings-03.png" width="900">
+  <img src="../05_images/settings/ml01-settings-03.png" width="1000">
 </p>
 
 - **01.** `CHASE_ANIMATION_SPEED`: Adjust the value as needed  
@@ -186,7 +186,7 @@ Do the same thing as before, saving the **`index.html`** file in the pico
 ```
 
 <p align="center">
-  <img src="../05_images/settings/ml01-settings-01.png" width="900">
+  <img src="../05_images/settings/ml01-settings-01.png" width="1000">
 </p>
 
 ✅ **All files successfully uploaded!**
