@@ -366,8 +366,7 @@ This document covers:
 ### H7. Script doesn't auto-start on power-up
 ✓ Ensure file is named exactly `main.py` on the Pico.  
 ✓ Check that `main.py` is in the **root directory** of Pico (not in a subfolder).  
-✓ Verify no syntax errors in `main.py` (test run in Thonny first).
-<br>
+✓ Verify no syntax errors in `main.py` (test run in Thonny first).  
 ---
 
 
