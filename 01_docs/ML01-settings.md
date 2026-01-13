@@ -323,8 +323,9 @@ This document covers:
 ### G3. Confirm Auto-Start
 - **01.** Check that **LEDs illuminate** (FULL mode by default).
 - **02.** Check that **Pico onboard LED** is lit.
-<br>
-🎉 **Congratulations! Your ML01 device is now configured and running independently!**
+
+### 🎉 CONGRATULATIONS 🎉 Your ML01 device is now configured and ready to run independently.
+Refer to the next document 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring.
 ---
 
 
