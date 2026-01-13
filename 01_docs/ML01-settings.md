@@ -2,15 +2,15 @@
 This document guides you through the firmware installation and initial configuration of your ML01 device.
 
 ## A. PREREQUISITES
-Before starting, ensure you have:  
-✓ Fully assembled ML01 PCB (see 📖 [ASSEMBLY](../01_docs/ML01-assembly.md))
-✓ Micro-USB cable
-✓ 5.1V 2.5A power supply (for standalone operation after setup)
-✓ Computer running Linux, Windows, or macOS
-✓ Integrated development environment (IDE) such as Thonny with MicroPython interpreter
-✓ Internet connection (note that the Pico 2W is only compatible with a **2.4 GHz Wi-Fi network**)
-✓ Wi-Fi network with known SSID and password
-✓ Your computer's local IP address (instructions below)
+Before starting, ensure you have:
+- ✓ Fully assembled ML01 PCB (see 📖 [ASSEMBLY](../01_docs/ML01-assembly.md))
+- ✓ Micro-USB cable
+- ✓ 5.1V 2.5A power supply (for standalone operation after setup)
+- ✓ Computer running Linux, Windows, or macOS
+- ✓ Integrated development environment (IDE) such as Thonny with MicroPython interpreter
+- ✓ Internet connection (note that the Pico 2W is only compatible with a **2.4 GHz Wi-Fi network**)
+- ✓ Wi-Fi network with known SSID and password
+- ✓ Your computer's local IP address (instructions below)
 ---
 
 
