@@ -153,6 +153,7 @@ ALLOWED_IPS = [
 ✓ If `AUTH_ENABLED = True` and `ALLOWED_IPS = []` (empty list), **no devices can connect**.  
 ✓ Do not expose Pico to public internet without additional security measures.  
 ✓ Regularly update MicroPython firmware for security patches.
+###
 
 ### D8. Save Configuration
 - **01.** Review all changes carefully.
@@ -190,6 +191,7 @@ Do the same thing as before, saving the **`index.html`** file in the pico
 <p align="center">
   <img src="../05_images/settings/ml01-settings-01.png" width="1000">
 </p>
+
 ✅ **All files successfully uploaded!**
 ###
 ---
@@ -294,7 +296,7 @@ RESTARTING...
 **Note:** The Thonny console correctly displays the "restartig sequence" but then loses the connection: this is normal operation.  
 The device remains controllable with its buttons or via the web interface, but no longer via Thonny.
 
-**If buttons respond correctly, hardware is functioning properly.**
+✅ **If buttons respond correctly, hardware is functioning properly.**
 ### 🎉 CONGRATULATIONS 🎉 Your ML01 device is now configured and ready to run independently.
 ---
 
