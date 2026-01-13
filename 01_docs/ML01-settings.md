@@ -2,15 +2,16 @@
 This document guides you through the firmware installation and initial configuration of your ML01 device.
 
 ## A. PREREQUISITES
-Before starting, ensure you have:<br>
-✓ Fully assembled ML01 PCB (see 📖 [ASSEMBLY](../01_docs/ML01-assembly.md))<br>
-✓ Micro-USB cable<br>
-✓ 5.1V 2.5A power supply (for standalone operation after setup)<br>
-✓ Computer running Linux, Windows, or macOS<br>
-✓ Integrated development environment (IDE) such as Thonny with MicroPython interpreter<br>
-✓ Internet connection (note that the Pico 2W is only compatible with a **2.4 GHz Wi-Fi network**)<br>
-✓ Wi-Fi network with known SSID and password<br>
+Before starting, ensure you have:  
+✓ Fully assembled ML01 PCB (see 📖 [ASSEMBLY](../01_docs/ML01-assembly.md))  
+✓ Micro-USB cable  
+✓ 5.1V 2.5A power supply (for standalone operation after setup)  
+✓ Computer running Linux, Windows, or macOS  
+✓ Integrated development environment (IDE) such as Thonny with MicroPython interpreter  
+✓ Internet connection (note that the Pico 2W is only compatible with a **2.4 GHz Wi-Fi network**)  
+✓ Wi-Fi network with known SSID and password  
 ✓ Your computer's local IP address (instructions below)
+###
 ---
 
 
@@ -32,9 +33,9 @@ Before starting, ensure you have:<br>
 - **02.** **Reconnect** the Pico via micro-USB.
 - **03.** Open your **IDE**.
 - **04.** Make sure the Pico is recognized:  
-        - With Thonny, check bottom-right corner.
-        - Should see "MicroPython (Raspberry Pi Pico)"
-        - If not, click the interpreter selector and choose it.
+        - With Thonny, check bottom-right corner.<br>
+        - Should see "MicroPython (Raspberry Pi Pico)"<br>
+        - If not, click the interpreter selector and choose it.<br>
 - **05.** You should see the instructions below in the shell using Thonny editor:
 
 <p align="center">
@@ -42,6 +43,7 @@ Before starting, ensure you have:<br>
 </p>
 
 ✅ **Firmware installation successful!**
+###
 ---
 
 
@@ -131,7 +133,6 @@ Keep `AUTH_ENABLED = True` unless you're on a private, trusted network.
 
 ### D7. Configure IP Address Whitelist
 Locate the **Security** section:  
-**Find your computer's local IP address and replace placeholder IPs with actual addresses you want to allow (for example):**
 ```python
 ALLOWED_IPS = [
     "192.168.1.100",  # Your computer
@@ -139,10 +140,11 @@ ALLOWED_IPS = [
     "192.168.1.110"   # Another device
 ]
 ```
-**Purpose:** Restricts web interface access to specific IP addresses on your local network.  
-**To disable IP filtering entirely (not recommended):** set `AUTH_ENABLED = False`  
+- Find your computer's local IP address and replace placeholder IPs with actual addresses you want to allow.
+- **Purpose:** Restricts web interface access to specific IP addresses on your local network.
+- To disable IP filtering entirely **(not recommended):** set `AUTH_ENABLED = False`
 <br>
-⚠️ **Important & Best Practices for Security**  
+⚠️ **Important & Best Practices for Security:**  
 ✓ Change default `AUTH_USERNAME` and `AUTH_PASSWORD`.  
 ✓ Use strong passwords (mix of letters, numbers, symbols).  
 ✓ Keep `AUTH_ENABLED = True` on shared networks.  
@@ -188,8 +190,8 @@ Do the same thing as before, saving the **`index.html`** file in the pico
 <p align="center">
   <img src="../05_images/settings/ml01-settings-01.png" width="1000">
 </p>
-
 ✅ **All files successfully uploaded!**
+###
 ---
 
 
@@ -250,11 +252,11 @@ Starting with mode ON1
 ```
 ✅ **Key indicators of success:**  
 ✓ Time synced (UTC+..)  
-✓ Web: http://192.168.0.124 (IP adress for example)  
-✓ **Onboard green LED on Pico 2W is lit** 🟩
+✓ Web: http://192.168.0.124 (IP adress in the example)  
+✓ Onboard green LED on Pico 2W is lit 🟩
 
 ### F3. Note Your Pico's IP Address
-- **01.** Look for the line: `Web: http://192.168.x.xxx`
+- **01.** Look for the line: `[WEB] http://192.168.0.xxx:80`
 - **02.** **Write down this IP address** – you'll need it to access the web interface.
 
 ### F4. Test Physical Buttons
@@ -289,21 +291,13 @@ Button 2 long press - restarting...
 RESTARTING...
 ==================================================
 ```
-**Note:** The Thonny console correctly displays the "restartig sequence" but then loses the connection: this is normal operation.
+**Note:** The Thonny console correctly displays the "restartig sequence" but then loses the connection: this is normal operation.  
 The device remains controllable with its buttons or via the web interface, but no longer via Thonny.
 
-✅ **If buttons respond correctly, hardware is functioning properly!**
-
-### F5. To access the web interface and control your ML01 remotely
-See 📖 [USAGE](01_docs/ML01-usage.md))  
-This document covers:
-- LED OPERATING MODES
-- PHYSICAL BUTTON CONTROLS
-- ONBOARD LED INDICATOR (Pico LED)
-- WEB INTERFACE ACCESS
-- WEB INTERFACE FEATURES
-- SYSTEM STATISTICS
+**If buttons respond correctly, hardware is functioning properly.**
+### 🎉 CONGRATULATIONS 🎉 Your ML01 device is now configured and ready to run independently.
 ---
+
 
 ## G. STANDALONE OPERATION
 ### G1. Disconnect from Computer
@@ -315,17 +309,23 @@ This document covers:
 - **01.** Connect the **5.1V 2.5A micro-USB power supply** to the Pico.
 - **02.** The **`main.py`** script will **automatically start** on boot.
 - **03.** Wait 5-10 seconds for:  
-        ✓ Wi-Fi connection to establish
-        ✓ Synchronization with the NTP server
-        ✓ Web server to start
-        ✓ LEDs to activate in default mode
+        ✓ Wi-Fi connection to establish<br>
+        ✓ Synchronization with the NTP server<br>
+        ✓ Web server to start<br>
+        ✓ LEDs to activate in default mode<br>
 
 ### G3. Confirm Auto-Start
 - **01.** Check that **LEDs illuminate** (FULL mode by default).
 - **02.** Check that **Pico onboard LED** is lit.
 
-### 🎉 CONGRATULATIONS 🎉 Your ML01 device is now configured and ready to run independently.
-- Refer to the next document 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring.
+### G4. To access the web interface and control your ML01 remotely
+See 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring, this document covers:  
+- LED OPERATING MODES
+- PHYSICAL BUTTON CONTROLS
+- ONBOARD LED INDICATOR (Pico LED)
+- WEB INTERFACE ACCESS
+- WEB INTERFACE FEATURES
+- SYSTEM STATISTICS
 ---
 
 
