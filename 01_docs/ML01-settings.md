@@ -325,7 +325,7 @@ This document covers:
 - **02.** Check that **Pico onboard LED** is lit.
 
 ### 🎉 CONGRATULATIONS 🎉 Your ML01 device is now configured and ready to run independently.
-Refer to the next document 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring.
+- Refer to the next document 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring.
 ---
 
 
