@@ -294,9 +294,9 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 
 ### 🎉 CONGRATULATIONS 🎉 Your ML01 PCB assembly is complete but don't power on yet.
 - **01.** Install 3D-printed stand to secure and display PCB.
-- **02.** Refer to the next document [SETTINGS](01_docs/ML01-settings.md) to flash the firmware and transfer programs to your pico.
+- **02.** Refer to the next document 📖 [SETTINGS](01_docs/ML01-settings.md) to flash the firmware and transfer programs to your pico.
 ---
 
 
-*Revision date: 2026.01.10*<br>
+*Revision date: 2026.01.13*<br>
 © RELEASE255 | All rights reserved

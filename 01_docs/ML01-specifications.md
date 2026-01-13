@@ -14,9 +14,9 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - **Safety Precautions while the device is powered:** thank you for reading the details at the end of this document.
 
 **The following guides are provided in separate documentation files:**
-- [ASSEMBLY guide](../01_docs/ML01-assembly.md)  
-- [SETTINGS guide](../01_docs/ML01-settings.md)  
-- [USAGE guide](../01_docs/ML01-usages.md)
+- 📖 [ASSEMBLY guide](../01_docs/ML01-assembly.md)  
+- 📖 [SETTINGS guide](../01_docs/ML01-settings.md)  
+- 📖 [USAGE guide](../01_docs/ML01-usages.md)
 ---
 
 ## A. FUNCTIONS
@@ -238,5 +238,5 @@ Users are responsible for ensuring compliance with local regulations if used in 
 ---
 
 
-*Revision date: 2026.01.10*<br>
+*Revision date: 2026.01.13*<br>
 © RELEASE255 | All rights reserved
