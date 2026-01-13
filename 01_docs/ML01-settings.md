@@ -143,7 +143,7 @@ ALLOWED_IPS = [
 - Find your computer's local IP address and replace placeholder IPs with actual addresses you want to allow.
 - **Purpose:** Restricts web interface access to specific IP addresses on your local network.
 - To disable IP filtering entirely **(not recommended):** set `AUTH_ENABLED = False`
-<br>
+
 ⚠️ **Important & Best Practices for Security:**  
 ✓ Change default `AUTH_USERNAME` and `AUTH_PASSWORD`.  
 ✓ Use strong passwords (mix of letters, numbers, symbols).  
