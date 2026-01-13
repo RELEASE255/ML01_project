@@ -144,7 +144,7 @@ ALLOWED_IPS = [
 - **Purpose:** Restricts web interface access to specific IP addresses on your local network.
 - To disable IP filtering entirely **(not recommended):** set `AUTH_ENABLED = False`
 
-⚠️ **Important & Best Practices for Security:**  
+⚠️ **Security Recommendation:**  
 ✓ Change default `AUTH_USERNAME` and `AUTH_PASSWORD`.  
 ✓ Use strong passwords (mix of letters, numbers, symbols).  
 ✓ Keep `AUTH_ENABLED = True` on shared networks.  
