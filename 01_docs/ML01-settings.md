@@ -367,6 +367,7 @@ This document covers:
 ✓ Ensure file is named exactly `main.py` on the Pico.  
 ✓ Check that `main.py` is in the **root directory** of Pico (not in a subfolder).  
 ✓ Verify no syntax errors in `main.py` (test run in Thonny first).
+<br>
 ---
 
 
