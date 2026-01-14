@@ -1,4 +1,4 @@
-# ML01 PROJECT – SETUP GUIDE
+# ML01 PROJECT – SETTINGS GUIDE
 This document guides you through the firmware installation and initial configuration of your ML01 device.
 
 ## A. PREREQUISITES
