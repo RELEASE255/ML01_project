@@ -234,10 +234,10 @@ ML01/
 │   ├── LICENSE-firmware.md
 │   ├── LICENSE-microdot.md
 │   ├── LICENSE-micropython.md
+│   ├── RPI_PICO2_W-YYYYMMDD-vX.XX.X.uf2
 │   ├── index.html
 │   ├── main.py
-│   ├── microdot.py
-│   └── RPI_PICO2_W-YYYYMMDD-vX.XX.X.uf2
+│   └── microdot.py
 │
 ├── 03_hardware/
 │   ├── LICENSE-bom.md
