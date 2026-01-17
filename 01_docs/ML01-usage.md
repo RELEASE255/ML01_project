@@ -214,7 +214,7 @@ Each log entry contains:
 
 #### **Clear Logs with CLEAR Button**
 - Deletes all log entries from RAM
-- Frees up memory (useful if approaching entry limit)
+- Frees up memory (could be useful if you are approaching the entry limits)
 ---
 
 
