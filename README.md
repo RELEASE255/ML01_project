@@ -152,9 +152,10 @@ Using the 2 physical buttons or the web interface, see the document [Usage](01_d
 
 # 📜 License Overview
 
-ML01 uses a **multi-license** & **balanced open source model.**
-The main license is MIT but other parts of the project use Creative Commons licenses.
-Below is the complete list of licenses used in the repository:
+ML01 uses a **multi-license** & **balanced open source model.**  
+The main license is MIT but other parts of the project use Creative Commons licenses.  
+Below is the complete list of licenses used in the repository.  
+If you have any question about licensing or permitted uses, contact the project maintainer.
 
 | Category        | License         | File Types      | Commercial use   | Full text                                  |
 |-----------------|-----------------|-----------------|------------------|--------------------------------------------|
@@ -165,9 +166,7 @@ Below is the complete list of licenses used in the repository:
 | Schematics      | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   | [LICENSE](03_hardware/LICENSE-hardware.md) |
 | 3D Models       | CC BY-NC-SA 4.0 | `.stl` `.stp`   | 🚫 Not allowed   | [LICENSE](04_3dmodels/LICENSE-3dmodels.md) |
 | Images          | CC BY-NC-SA 4.0 | `.png` `.jpg`   | 🚫 Not allowed   | [LICENSE](05_images/LICENSE-images.md)     |
-| PCB Sources     | Proprietary     | Kicad & Gerbers | ❌ Not available | [LICENSE](01_docs/LICENSE-docs.md)         |
-
-If you have any question about licensing or permitted uses, contact the project maintainer.
+| PCB Sources     | Proprietary     | Kicad & Gerbers | ❌ Not available | N/A                                        |
 
 ### 🔒 PCB sources remain proprietary
 
