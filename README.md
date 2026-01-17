@@ -156,46 +156,16 @@ ML01 uses a **multi-license** & **balanced open source model.**
 The main license is MIT but other parts of the project use Creative Commons licenses.
 Below is the complete list of licenses used in the repository:
 
-| Category      | License         | File Types      | Commercial use   |
-|---------------|-----------------|-----------------|------------------|
-| Firmware      | MIT             | `.py` `.html`   | ✅ Allowed       |
-| BOM           | CC BY-SA 4.0    | `.pdf`          | ✅ Allowed       |
-| Costs         | Free use        | `.pdf`          | 🚫 Not allowed   |
-| 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp`   | 🚫 Not allowed   |
-| Documentation | CC BY-NC-SA 4.0 | `.pdf` `.md`    | 🚫 Not allowed   |
-| Images        | CC BY-NC-SA 4.0 | `.png` `.jpg`   | 🚫 Not allowed   |
-| Schematics    | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   |
-| PCB Sources   | Proprietary     | Kicad & Gerbers | ❌ Not available |
-
-### Documentation
-- **License:** CC BY-NC-SA 4.0
-- **Files:** `01_docs/*.md`, `01_docs/*.pdf`
-- **Full text:** [01_docs/LICENSE-docs.md](01_docs/LICENSE-docs.md)
-
-### Firmware
-- **License:** MIT
-- **Files:** `02_firmware/*.py`, `02_firmware/*.html`
-- **Full text:** See the `LICENSE` file (root)
-
-### Hardware
-- **License:** CC BY-NC-SA 4.0
-- **Files:** `03_hardware/*.pdf`
-- **Full text:** [03_hardware/LICENSE-hardware.md](03_hardware/LICENSE-hardware.md)
-
-### Bill of Materials (BOM)
-- **License:** CC BY-SA 4.0
-- **Files:** `03_hardware/*.pdf`
-- **Full text:** [03_hardware/LICENSE-bom.md](03_hardware/LICENSE-bom.md)
-
-### 3D Models
-- **License:** CC BY-NC-SA 4.0
-- **Files:** `04_3dmodels/*.stl`, `04_3dmodels/*.stp`
-- **Full text:** [04_3d/LICENSE-3dmodels.md](04_3d/LICENSE-3dmodels.md)
-
-### Images & Photos
-- **License:** CC BY-NC-SA 4.0
-- **Files:** `05_images/**/*.jpg`, `05_images/**/*.png`
-- **Full text:** [05_images/LICENSE-images.md](05_images/LICENSE-images.md)
+| Category        | License         | File Types      | Commercial use   | Full text                                  |
+|-----------------|-----------------|-----------------|------------------|--------------------------------------------|
+| Firmware        | MIT             | `.py` `.html`   | ✅ Allowed       | [LICENSE](LICENSE)                         |
+| BOM             | CC BY-SA 4.0    | `.pdf`          | ✅ Allowed       | [LICENSE](03_hardware/LICENSE-bom.md)      |
+| Documentation   | CC BY-NC-SA 4.0 | `.pdf` `.md`    | 🚫 Not allowed   | [LICENSE](01_docs/LICENSE-docs.md)         |
+| Technical plans | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   | [LICENSE](03_hardware/LICENSE-hardware.md) |
+| Schematics      | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   | [LICENSE](03_hardware/LICENSE-hardware.md) |
+| 3D Models       | CC BY-NC-SA 4.0 | `.stl` `.stp`   | 🚫 Not allowed   | [LICENSE](04_3dmodels/LICENSE-3dmodels.md) |
+| Images          | CC BY-NC-SA 4.0 | `.png` `.jpg`   | 🚫 Not allowed   | [LICENSE](05_images/LICENSE-images.md)     |
+| PCB Sources     | Proprietary     | Kicad & Gerbers | ❌ Not available | [LICENSE](01_docs/LICENSE-docs.md)         |
 
 If you have any question about licensing or permitted uses, contact the project maintainer.
 
@@ -217,17 +187,16 @@ ML01 runs on MicroPython, a Python interpreter optimized for microcontrollers.
 - **License MIT**
 - **Author:** Damien P. George and contributors
 - **Official website:** https://micropython.org
-- **Full text:** [02_firmware/LICENSE-micropython.md](02_firmware/LICENSE-micropython.md)
-ℹ️ No MicroPython code is directly redistributed in this repository.
+- **Full text license:** [here](02_firmware/LICENSE-micropython.md)  
+ℹ️ The firmware provided in this repository may not necessarily be the latest version.
 
 #### **Microdot**
 Microdot is an ultra-lightweight web micro-framework used for the ML01 kit's HTML interface.
 - **License MIT**
 - **Author:** Miguel Grinberg
 - **Official Repository:** https://github.com/miguelgrinberg/microdot
-- **Files:** `02_firmware/`
-- **Full text:** [02_firmware/LICENSE-microdot.md](02_firmware/LICENSE-microdot.md)
-ℹ️ ML01 includes a copy of the `microdot.py` file in the `02_firmware/` folder to ensure compatibility and facilitate installation.
+- **Full text license:** [here](02_firmware/LICENSE-microdot.md)  
+ℹ️ The `microdot.py` file provided in this repository may not necessarily be the latest version.
 
 ---
 
