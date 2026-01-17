@@ -153,10 +153,10 @@ When running the script in Thonny, the IP address is displayed in the shell outp
 ## F. WEB INTERFACE FEATURES
 ### F1. Remote Control Buttons
 The web interface provides four main control buttons:
-- Press **ON** button for FULL mode
-- Press **CHASE** button for time-synchronized display
-- Press **OFF** button to turns off all 16 LEDs immediately
-- Press **RESTART** button to reboots the Raspberry Pi Pico
+- Press the **ON** button for FULL mode
+- Press the **CHASE** button for time-synchronized display
+- Press the **OFF** button to turns off all 16 LEDs immediately
+- Press the **RESTART** button to reboots the Raspberry Pi Pico
 
 ### F2. System Information Display
 The web interface shows also real-time system status:
