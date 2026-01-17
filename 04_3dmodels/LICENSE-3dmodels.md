@@ -4,7 +4,7 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 Copyright (c) RELEASE255
 
-This license applies to all 3D model files contained in this directory.
+This license applies to all 3D model files and technical plans contained in this directory.
 
 To view a copy of this license, visit:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
