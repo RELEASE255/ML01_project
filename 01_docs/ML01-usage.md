@@ -19,7 +19,7 @@ Once configured, the device operates autonomously with automatic Wi-Fi reconnect
 - **Power consumption:** ~0.18 W (Pico only)
 
 <p align="center">
-  <img src="../05_images/usage/ml01-usage-consumption-off-mode.png" width="500">
+  <img src="../05_images/usage/ml01-usage-consumption-off-mode.png" width="800">
 </p>
 
 ### A2. FULL Mode
@@ -29,7 +29,7 @@ Once configured, the device operates autonomously with automatic Wi-Fi reconnect
 - **Power consumption:** ~1.25 W
 
 <p align="center">
-  <img src="../05_images/usage/ml01-usage-consumption-full-mode.png" width="500">
+  <img src="../05_images/usage/ml01-usage-consumption-full-mode.png" width="800">
 </p>
 
 
@@ -47,7 +47,7 @@ Once configured, the device operates autonomously with automatic Wi-Fi reconnect
 - **Power consumption:** ~0.25 W
 
 <p align="center">
-  <img src="../05_images/usage/ml01-usage-consumption-chase-mode.png" width="500">
+  <img src="../05_images/usage/ml01-usage-consumption-chase-mode.png" width="800">
 </p>
 ---
 
