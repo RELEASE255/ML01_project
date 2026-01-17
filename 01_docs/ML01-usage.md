@@ -125,13 +125,10 @@ When running the script in Thonny, the IP address is displayed in the shell outp
 - Find your device
 
 ### E1. Connecting to Web Interface
+### E1. Connecting to Web Interface
 - **01.** Open a web browser on any device connected to the **same Wi-Fi network** as the Pico.
-- **02.** Enter the Pico's IP address in the browser address bar (example if we keep the example above):
-```
-http://192.168.0.124/
-```
+- **02.** Enter the Pico's IP address in the browser address bar (example: http://192.168.0.124).  
 **Note:** The web server runs on **port 80** (standard HTTP), so no port number is needed in the URL.
-
 - **03.** If authentication is enabled (default), you will see a login prompt.
 - **04.** Enter the credentials configured in `main.py`:  
         ✓ **Username:** As set in `AUTH_USERNAME` (default: `admin`)<br>
