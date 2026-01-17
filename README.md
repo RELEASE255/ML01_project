@@ -37,7 +37,7 @@
 - **100% DIY THT** | Perfect for beginners and maker who wish to assemble or repair their product
 - **Upgradable Firmware** | New modes and features can be added anytime
 - **Easy Powered** | Works with the included 12.5 W PSU or via USB
-- **Budget Friendly** | Transparent and moderate costs coupled with low consumption (~1.25 Wh)
+- **Budget Friendly** | Transparent and moderate costs coupled with low consumption (~1 Wh)
 
 ---
 
@@ -109,7 +109,7 @@
 # 📚 Documentation
 
 ## Specifications
-See the document [Specifications](01_docs/ML01v01-specifications-version01.md)
+See the document [Specifications](01_docs/ML01-specifications.md)
 
 ## Quick Start
 1. **Solder** all components following the guide (⏱️ ~ 5 hours)
@@ -121,13 +121,13 @@ See the document [Specifications](01_docs/ML01v01-specifications-version01.md)
 7. **Control** via web interface or the buttons
 
 ## Assembly  
-Follow the complet guide to [Assembly](01_docs/ML01v01-assembly-version01.md)
+Follow the complet guide to [Assembly](01_docs/ML01-assembly.md)
 
 ## Configuration  
-Follow the complet guide to edit [Settings](01_docs/ML01v01-settings-version01.md)
+Follow the complet guide to edit [Settings](01_docs/ML01-settings.md)
 
 ## Control & consult logs
-Using the 2 physical buttons or the web interface, see the document [Usage](01_docs/ML01v01-usages-version01.md)
+Using the 2 physical buttons or the web interface, see the document [Usage](01_docs/ML01-usages.md)
 
 ---
 
@@ -142,28 +142,62 @@ Using the 2 physical buttons or the web interface, see the document [Usage](01_d
 
 # 🌐 Ecosystem
 
-- **Official website** *https://release255.com/*
-- **Buy the kit** *(Tindie link)*
-- **3d stand** *(Printables link)*
-- **Community** *(Mastodon link)*
-- **Project page** *(Hackaday.io link)*
+- **Official website:** *https://release255.com/*
+- **Buy the kit:** *(Tindie link)*
+- **3d stand:** *https://www.printables.com/model/1552197-pcb-stand*
+- **Community:** *(Mastodon link)*
+- **Project page:** *(Hackaday.io link)*
 
 ---
 
-# 📜 License Summary
+# 📜 License Overview
 
-ML01 uses a **multi-license** & **balanced open source model**
+ML01 uses a **multi-license** & **balanced open source model.**
+The main license is MIT but other parts of the project use Creative Commons licenses.
+Below is the complete list of licenses used in the repository:
 
 | Category      | License         | File Types      | Commercial use   |
 |---------------|-----------------|-----------------|------------------|
 | Firmware      | MIT             | `.py` `.html`   | ✅ Allowed       |
-| BOM           | CC BY-SA 4.0    | `.ods`          | ✅ Allowed       |
+| BOM           | CC BY-SA 4.0    | `.pdf`          | ✅ Allowed       |
 | Costs         | Free use        | `.pdf`          | 🚫 Not allowed   |
 | 3D Models     | CC BY-NC-SA 4.0 | `.stl` `.stp`   | 🚫 Not allowed   |
 | Documentation | CC BY-NC-SA 4.0 | `.pdf` `.md`    | 🚫 Not allowed   |
 | Images        | CC BY-NC-SA 4.0 | `.png` `.jpg`   | 🚫 Not allowed   |
 | Schematics    | CC BY-NC-SA 4.0 | `.pdf`          | 🚫 Not allowed   |
 | PCB Sources   | Proprietary     | Kicad & Gerbers | ❌ Not available |
+
+### Documentation
+- **License:** CC BY-NC-SA 4.0
+- **Files:** `01_docs/*.md`, `01_docs/*.pdf`
+- **Full text:** [01_docs/LICENSE-docs.md](01_docs/LICENSE-docs.md)
+
+### Firmware
+- **License:** MIT
+- **Files:** `02_firmware/*.py`, `02_firmware/*.html`
+- **Full text:** See the `LICENSE` file (root)
+
+### Hardware
+- **License:** CC BY-NC-SA 4.0
+- **Files:** `03_hardware/*.pdf`
+- **Full text:** [03_hardware/LICENSE-hardware.md](03_hardware/LICENSE-hardware.md)
+
+### Bill of Materials (BOM)
+- **License:** CC BY-SA 4.0
+- **Files:** `03_hardware/*.pdf`
+- **Full text:** [03_hardware/LICENSE-bom.md](03_hardware/LICENSE-bom.md)
+
+### 3D Models
+- **License:** CC BY-NC-SA 4.0
+- **Files:** `04_3dmodels/*.stl`, `04_3dmodels/*.stp`
+- **Full text:** [04_3d/LICENSE-3dmodels.md](04_3d/LICENSE-3dmodels.md)
+
+### Images & Photos
+- **License:** CC BY-NC-SA 4.0
+- **Files:** `05_images/**/*.jpg`, `05_images/**/*.png`
+- **Full text:** [05_images/LICENSE-images.md](05_images/LICENSE-images.md)
+
+If you have any question about licensing or permitted uses, contact the project maintainer.
 
 ### 🔒 PCB sources remain proprietary
 
@@ -183,7 +217,7 @@ ML01 runs on MicroPython, a Python interpreter optimized for microcontrollers.
 - **License MIT**
 - **Author:** Damien P. George and contributors
 - **Official website:** https://micropython.org
-MicroPython © 2013-2025 Damien P. George — Licensed under the MIT License.
+- **Full text:** [02_firmware/LICENSE-micropython.md](02_firmware/LICENSE-micropython.md)
 ℹ️ No MicroPython code is directly redistributed in this repository.
 
 #### **Microdot**
@@ -191,7 +225,8 @@ Microdot is an ultra-lightweight web micro-framework used for the ML01 kit's HTM
 - **License MIT**
 - **Author:** Miguel Grinberg
 - **Official Repository:** https://github.com/miguelgrinberg/microdot
-Microdot © Miguel Grinberg — Licensed under the MIT License.
+- **Files:** `02_firmware/`
+- **Full text:** [02_firmware/LICENSE-microdot.md](02_firmware/LICENSE-microdot.md)
 ℹ️ ML01 includes a copy of the `microdot.py` file in the `02_firmware/` folder to ensure compatibility and facilitate installation.
 
 ---
@@ -220,41 +255,45 @@ Let's explore cross-promotion, joint tutorials, shared tools, or group orders.
 ```
 ML01/
 ├── 01_docs/
-│   ├── LICENSE_docs.md
-│   ├── ML01v01-assembly-version01.md
-│   ├── ML01v01-costs-version01.pdf
-│   ├── ML01v01-settings-version01.md
-│   ├── ML01v01-specifications-version01.md
-│   └── ML01v01-usage-version01.md
+│   ├── LICENSE-docs.md
+│   ├── ML01-assembly.md
+│   ├── ML01-costs.pdf
+│   ├── ML01-settings.md
+│   ├── ML01-specifications.md
+│   └── ML01-usage.md
 │
 ├── 02_firmware/
-│   ├── LICENSE_firmware.md
-│   ├── LICENSE_microdot
-│   ├── LICENSE_micropython
+│   ├── LICENSE-firmware.md
+│   ├── LICENSE-microdot.md
+│   ├── LICENSE-micropython.md
 │   ├── index.html
 │   ├── main.py
-│   └── microdot.py
+│   ├── microdot.py
+│   └── RPI_PICO2_W-YYYYMMDD-vX.XX.X.uf2
 │
 ├── 03_hardware/
-│   ├── LICENSE_bom.md
-│   ├── LICENSE_hardware.md
-│   ├── BOM.ods
-│   └── schematics.pdf
+│   ├── LICENSE-bom.md
+│   ├── LICENSE-hardware.md
+│   ├── ML01-bom.pdf
+│   ├── ML01-drawingA3.pdf
+│   └── ML01-kicad-schematic.pdf
 │
 ├── 04_3dmodels/
-│   ├── LICENSE_3d.md
-│   ├── board_stand.stl
-│   └── board_stand.stp
+│   ├── LICENSE-3dmodels.md
+│   ├── ML01-pcbstand-v01.stl
+│   └── ML01-pcbstand-v01.stp
 │
 ├── 05_images/
 │   ├── assembly/
 │   ├── product/
 │   ├── settings/
 │   ├── usage/
-│   └── LICENSE_images.md
+│   └── LICENSE-images.md
 │
 ├── CHANGELOG.md
-├── LICENSE (MIT)
-├── LICENSE.md (OVERVIEW)
+├── LICENSE
 └── README.md
 ```
+
+*Revision date: 2026.01.17*<br>
+© RELEASE255 | All rights reserved
