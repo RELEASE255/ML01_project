@@ -127,7 +127,7 @@ Follow the complet guide to [Assembly](01_docs/ML01-assembly.md)
 Follow the complet guide to edit [Settings](01_docs/ML01-settings.md)
 
 ## Control & consult logs
-Using the 2 physical buttons or the web interface, see the document [Usage](01_docs/ML01-usages.md)
+Using the 2 physical buttons or the web interface, see the document [Usage](01_docs/ML01-usage.md)
 
 ---
 
