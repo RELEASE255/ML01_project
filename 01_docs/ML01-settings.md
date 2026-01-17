@@ -124,9 +124,9 @@ Locate the **Authentication** section:
         - `True` = Login required (recommended)
         - `False` = Open access (⚠️ not recommended on shared networks)
 - **02.** `AUTH_USERNAME`: Choose a username for web interface access.  
-        - Example: `AUTH_USERNAME = "admin"`
+        - Default `AUTH_USERNAME = "admin"`
 - **03.** `AUTH_PASSWORD`: Choose a secure password for web interface access.  
-        - Example: `AUTH_PASSWORD = "ML01secure!"`
+        - Default `AUTH_PASSWORD = "ML01secure!"`
 
 ⚠️ **Security Recommendation:**  
 Keep `AUTH_ENABLED = True` unless you're on a private, trusted network.
@@ -375,5 +375,5 @@ See 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operat
 ---
 
 
-*Revision date: 2026.01.13*<br>
+*Revision date: 2026.01.17*<br>
 © RELEASE255 | All rights reserved
