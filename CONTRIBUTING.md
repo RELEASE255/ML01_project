@@ -1,6 +1,7 @@
 # CONTRIBUTING TO ML01 PROJECT
 
-First off, thank you for considering contributing to the ML01 project! It is through community involvement that DIY projects like this evolve and improve.
+First off, thank you for considering contributing to the ML01 project!  
+It is through community involvement that DIY projects like this evolve and improve.
 
 ## License Agreement
 By contributing to this repository, you agree that:
@@ -14,7 +15,7 @@ By contributing to this repository, you agree that:
 * If not, open a new issue. Include your firmware version, a clear description of the bug, and steps to reproduce it.
 
 ### Suggesting Enhancements
-* We welcome new LED animation modes or web interface improvements!
+* We welcome new LED animation modes or web interface improvements.
 * Open an issue first to discuss the idea before starting the development.
 
 ### Pull Requests (Code)
