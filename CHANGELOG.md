@@ -19,15 +19,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Multi-license structure (MIT, CC BY-SA, CC BY-NC-SA)
 
 ### Changed
+- 
 
 ### Deprecated
+- 
 
 ### Removed
+- 
 
 ### Fixed
+- 
 
 ###Security
-
-
-[Unreleased]: https://github.com/RELEASE255/ML01/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/RELEASE255/ML01/releases/tag/v1.0.0
+- 
