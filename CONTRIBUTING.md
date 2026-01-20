@@ -1,6 +1,6 @@
 # CONTRIBUTING TO ML01 PROJECT
 
-Thank you for considering contributing to the ML01 project, it is through community involvement that DIY projects like this evolve and improve.
+Thank you for considering contributing, it is through community involvement that projects like this evolve and improve.
 
 ## License Agreement
 By contributing to this repository, you agree that:
