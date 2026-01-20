@@ -30,6 +30,7 @@ By contributing to this repository, you agree that:
 * **Web Framework:** Microdot.
 
 ## 💬 Questions?
-If you have questions about the assembly or configuration, please refer to the [ML01-assembly.md](01_docs/ML01-assembly.md) or [ML01-settings.md](01_docs/ML01-settings.md) files first. For other inquiries, feel free to open a "Question" issue.
+If you have questions about the assembly or configuration, please refer to the [ASSEMBLY guide](01_docs/ML01-assembly.md) or [SETTINGS guide](01_docs/ML01-settings.md) files first.  
+For other inquiries, feel free to open a "Question" issue.
 
 Thank you for being part of the ML01 project journey!
