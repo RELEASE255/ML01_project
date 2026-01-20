@@ -259,9 +259,10 @@ ML01/
 │   └── LICENSE-images.md
 │
 ├── CHANGELOG.md
+├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
 ```
 
-*Revision date: 2026.01.17*<br>
+*Revision date: 2026.01.20*<br>
 © RELEASE255 | All rights reserved
