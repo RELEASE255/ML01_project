@@ -1,6 +1,7 @@
 # CONTRIBUTING TO ML01 PROJECT
 
-Thank you for considering contributing, it is through community involvement that projects like this evolve and improve.
+Thank you for considering contributing.  
+It is through community involvement that projects like this evolve and improve.
 
 ## License Agreement
 By contributing to this repository, you agree that:
@@ -25,7 +26,7 @@ By contributing to this repository, you agree that:
 5.  Open a Pull Request targeting the `main` branch.
 
 ## 💬 Questions?
-If you have questions about the assembly or configuration, please refer to the [ASSEMBLY guide](01_docs/ML01-assembly.md) or [SETTINGS guide](01_docs/ML01-settings.md) files first.  
+If you have questions about the assembly or configuration, please refer to the [Assembly](01_docs/ML01-assembly.md) & [Settings](01_docs/ML01-settings.md) files first.  
 For other inquiries, feel free to open a "Question" issue.
 
 Thank you for being part of the ML01 project journey!
