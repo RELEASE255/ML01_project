@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="05_images/product/ml01-chase-mode.gif" width="600" alt="ML01 CHASE mode animation"><br>
+  <img src="05_images/product/ml01-chase-mode.gif" width="500" alt="ML01 CHASE mode animation"><br>
   <sub>CHASE mode animated</sub>
 </p>
 
