@@ -16,7 +16,7 @@ Once configured, the device operates autonomously with automatic Wi-Fi reconnect
 ### A1. OFF Mode
 - **Description:** All 16 LEDs are turned off.
 - **Use case:** Power saving, nighttime operation, or when lighting is not needed.
-- **Power consumption:** ~0.18 W (Pico only)
+- **Power consumption:** ~0.18 Wh (Pico only)
 
 <p align="center">
   <img src="../05_images/usage/ml01-usage-consumption-off-mode.png" width="800">
@@ -26,7 +26,7 @@ Once configured, the device operates autonomously with automatic Wi-Fi reconnect
 - **Description:** All 16 LEDs are continuously illuminated at full brightness.
 - **Default behavior:** This is the default mode when the device starts.
 - **Use case:** Maximum visibility, status indication, or testing all LEDs.
-- **Power consumption:** ~1.25 W
+- **Power consumption:** ~1.25 Wh
 
 <p align="center">
   <img src="../05_images/usage/ml01-usage-consumption-full-mode.png" width="800">
@@ -43,7 +43,7 @@ Once configured, the device operates autonomously with automatic Wi-Fi reconnect
         ✓ All LEDs flash simultaneously 3 times at 1-second intervals<br>
         ✓ Chase mode resumes with only LED 1 active<br>
 - **Use case:** Visual time indicator, demonstration of sequential control, and fun!
-- **Power consumption:** ~0.25 W
+- **Power consumption:** ~0.25 Wh
 
 <p align="center">
   <img src="../05_images/usage/ml01-usage-consumption-chase-mode.png" width="800">
