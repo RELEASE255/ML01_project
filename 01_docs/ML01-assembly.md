@@ -188,8 +188,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 ### C6. LEDs (16× Yellow 5mm)
 **Difficulty level: tricky**  
 <br>
-⚠️ **Correct orientation is essential**  
-** Also take your time because proper alignment is critical for appearance**
+⚠️ **Correct orientation and taking your time are essential for perfect and aesthetic alignment.**  
 - **01.** Identify LED polarity on **each LED**:  
         - **Long lead = Anode (+)**<br>
         - **Short lead = Cathode (−)**<br>
