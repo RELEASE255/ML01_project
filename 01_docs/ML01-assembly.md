@@ -189,7 +189,7 @@ Slightly bend all IC pins **inward** to facilitate insertion into PCB holes.
 **Difficulty level: tricky**  
 <br>
 ⚠️ **Correct orientation is essential**  
-⚠️ **Take your time because proper alignment is critical for appearance**
+** Also take your time because proper alignment is critical for appearance**
 - **01.** Identify LED polarity on **each LED**:  
         - **Long lead = Anode (+)**<br>
         - **Short lead = Cathode (−)**<br>
