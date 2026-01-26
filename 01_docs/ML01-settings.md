@@ -372,5 +372,5 @@ See 📖 [USAGE](../01_docs/ML01-usage.md) to know how to use ML01 for daily ope
 ---
 
 
-*Revision date: 2026.01.17*<br>
+*Revision date: 2026.01.26*<br>
 © RELEASE255 | All rights reserved
