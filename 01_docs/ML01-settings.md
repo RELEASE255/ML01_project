@@ -318,7 +318,7 @@ The device remains controllable with its buttons or via the web interface, but n
 - **02.** Check that **Pico onboard LED** is lit.
 
 ### G4. To access the web interface and control your ML01 remotely
-See 📖 [USAGE](01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring, this document covers:  
+See 📖 [USAGE](../01_docs/ML01-usage.md) to know how to use ML01 for daily operation and monitoring, this document covers:  
 - LED OPERATING MODES
 - PHYSICAL BUTTON CONTROLS
 - ONBOARD LED INDICATOR (Pico LED)
