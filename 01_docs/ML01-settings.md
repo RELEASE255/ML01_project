@@ -122,7 +122,7 @@ Locate the **Timing** section:
 Locate the **Authentication** section:
 - **01.** `AUTH_ENABLED`: Controls whether web interface requires login.  
         - `True` = Login required (recommended)
-        - `False` = Open access (⚠️ not recommended on shared networks)
+        - `False` = Open access (not recommended on shared networks)
 - **02.** `AUTH_USERNAME`: Choose a username for web interface access.  
         - Default `AUTH_USERNAME = "admin"`
 - **03.** `AUTH_PASSWORD`: Choose a secure password for web interface access.  
