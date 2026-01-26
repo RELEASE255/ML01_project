@@ -98,8 +98,6 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - 12.7W maximum output power
 - 1.5m 18AWG captive cable
 - Micro USB output connector
-- Available only with EU power socket
-- White color
 - Can alternatively be powered via USB port from computer.
 
 ### B8. LED Driving
