@@ -87,9 +87,9 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 ### B6. Power Input
 | PARAMETER           | VALUE                                       |
 |---------------------|---------------------------------------------|
-| Voltage             | 5.1 V DC                                    |
-| Current (FULL mode) | ~300 mA (1.5 W)                             |
-| Current (OFF mode)  | ~50 mA (0.25 W)                             |
+| Voltage             | 5 V DC                                      |
+| Current (FULL mode) | ~260 mA (1.3 W)                             |
+| Current (OFF mode)  | ~35 mA (0.18 W)                             |
 | Protection          | PTC resettable fuse (0.5 A hold / 1 A trip) |
 
 ### B7. Power Supply: 1x Raspberry Pi 12.7W Micro USB
