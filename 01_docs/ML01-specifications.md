@@ -63,8 +63,8 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 - Maximum forward current: 30 mA
 
 ### B4. User Input: 2× push buttons (6×6 mm, 1.6 N travel)
-- Button 1: GPIO 4 (mode cycling + system stop on long press)
-- Button 2: GPIO 5 (system reboot on long press)
+- Button 1: GPIO 4
+- Button 2: GPIO 5
 - Internal pull-ups enabled in firmware
 
 ### B5. Power Conditioning
