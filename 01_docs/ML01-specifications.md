@@ -189,7 +189,7 @@ Same connections as first TPIC apart from the differences below:
 ## E. ENCLOSURE CONSIDERATIONS (to be printed according to provided 3D files)
 **This is an open PCB design:**
 - The PCB stand allows 2 possible tilt angles: 80° and 60°.
-- The PCB stand must be printed according to the file provided [here](../04_3dmodels/)
+- The PCB stand must be printed according to the file provided on this repo [here](../04_3dmodels/) or Printables [here](https://www.printables.com/model/1552197-pcb-stand)
 - The ML01 project deliberately does not include a fully enclosed protective case at this stage.
 - This design choice allows all electronic components to remain visible, which is valuable for:  
         - Educational purposes and learning electronics<br>
