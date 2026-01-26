@@ -16,7 +16,7 @@ All components are Through-Hole Technology (THT) and require assembly onto a pri
 **The following guides are provided in separate documentation files:**
 - 📖 [ASSEMBLY guide](../01_docs/ML01-assembly.md)  
 - 📖 [SETTINGS guide](../01_docs/ML01-settings.md)  
-- 📖 [USAGE guide](../01_docs/ML01-usages.md)
+- 📖 [USAGE guide](../01_docs/ML01-usage.md)
 ---
 
 ## A. FUNCTIONS
