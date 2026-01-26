@@ -128,9 +128,6 @@ Locate the **Authentication** section:
 - **03.** `AUTH_PASSWORD`: Choose a secure password for web interface access.  
         - Default `AUTH_PASSWORD = "ML01secure!"`
 
-⚠️ **Security Recommendation:**  
-Keep `AUTH_ENABLED = True` unless you're on a private, trusted network.
-
 ### D7. Configure IP Address Whitelist
 Locate the **Security** section:  
 ```python
