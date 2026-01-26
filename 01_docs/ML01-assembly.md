@@ -30,7 +30,7 @@
 
 ### A5. Check that you have all the components listed in the BOM
 - Refer to the [BOM](../03_hardware/ML01-bom.pdf).
-- Note: the stand for PCB is not included in the kit and must be printed according to the provided 3D file.
+- Note: the stand for PCB must be printed according to the provided 3D file.
 ---
 
 
