@@ -94,13 +94,13 @@ NTP_TIMEZONE_OFFSET = 1
 **Set your timezone offset relative to UTC, for example:**
 | Location    | Offset | Value |
 |-------------|--------|-------|
-| Santa Clara | UTC-8  | `-8`  |
-| Boston      | UTC-5  | `-5`  |
-| London      | UTC+0  | `0`   |
-| Zurich      | UTC+1  | `1`   |
-| Bengaluru   | UTC+5  | `5`   |
-| Shenzhen    | UTC+8  | `8`   |
 | Seoul       | UTC+9  | `9`   |
+| Taipei      | UTC+8  | `8`   |
+| Bengaluru   | UTC+5  | `5`   |
+| Zurich      | UTC+1  | `1`   |
+| London      | UTC+0  | `0`   |
+| Boston      | UTC-5  | `-5`  |
+| Palo Alto   | UTC-8  | `-8`  |
 
 **Note:** This does not account for Daylight Saving Time (DST). Adjust manually if needed.
 
