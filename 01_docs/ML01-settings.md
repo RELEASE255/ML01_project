@@ -82,8 +82,8 @@ Locate the **WiFi** section:
 WIFI_SSID = "yourSSID"
 WIFI_PASSWORD = "yourPassword"
 ```
-- **01.** Replace `"yourSSID"` with your Wi-Fi network name (case-sensitive).
-- **02.** Replace `"yourPassword"` with your Wi-Fi password (case-sensitive).
+- **01.** Replace `"yourSSID"` with your Wi-Fi network name.
+- **02.** Replace `"yourPassword"` with your Wi-Fi password.
 
 ### D4. Configure Timezone (NTP)
 Locate the **NTP** section:
