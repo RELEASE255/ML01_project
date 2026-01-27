@@ -210,7 +210,7 @@ Each log entry contains:
 
 #### **Export Logs to CSV with EXPORT Button**
 - Downloads all current logs as a CSV file
-- Filename in `ml01_logs_YYYYMMDD_HHMMSS.csv` format
+- Filename in `ML01_logs_page1_YYYY-MM-DD.csv` format
 
 #### **Clear Logs with CLEAR Button**
 - Deletes all log entries from RAM
@@ -315,5 +315,5 @@ Your IP address is not in the `ALLOWED_IPS` whitelist:
 ---
 
 
-*Revision date: 2026.01.17*<br>
+*Revision date: 2026.01.27*<br>
 © RELEASE255 | All rights reserved
