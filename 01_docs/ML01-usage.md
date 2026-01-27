@@ -165,7 +165,7 @@ The web interface shows also real-time system status:
 - **IP:** Current IP address of the Pico
 #### **Operational Status**
 - **START:** Date and time when the script started in `DD/MM/YYYY - HH:MM:SS` format
-- **UPTIME:** Total time since device boot in format (time spent in FULL mode in parentheses)
+- **UPTIME:** Total time since device boot in `HH:MM` format (time spent in FULL mode in parentheses)
 #### **Temperature Monitoring**
 - **PICO TEMP:** Internal temperature of the RP2350 microcontroller in °C
 - **STATUS:** Temperature classification with color coding
