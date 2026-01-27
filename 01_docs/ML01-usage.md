@@ -168,7 +168,7 @@ The web interface shows also real-time system status:
 - **UPTIME:** Total time since device boot in `HH MM` format (time spent in FULL mode in parentheses)
 #### **Temperature Monitoring**
 - **PICO TEMP:** Internal temperature of the RP2350 microcontroller in °C
-- **STATUS:** Temperature classification with color coding
+- **STATUS:** Temperature classification according to the table below
 
 | Temperature Range | Status       | Description                         |
 |-------------------|--------------|-------------------------------------|
