@@ -142,7 +142,7 @@ Using the 2 physical buttons or the web interface, see the document [Usage](01_d
 - Assembly mistakes may damage components
 - No warranty is provided
 - Use at your own risk
-- This device is intended for personal, non-commercial use only<br>
+- This device is intended for personal, non-commercial use only  
 <br>
 **It has not been tested or certified to meet:**
 - CE electromagnetic compatibility standards
