@@ -43,7 +43,10 @@
 
 # 📦 Contents of the Kit
 
-- 01x PCB
+**Available on Tindie (coming soon):**
+- 01x PCB  
+
+**To be purchased separately:**
 - 01x Raspberry Pi Pico 2W (THT version)
 - 01x Raspberry power supply 12.5 W (5.1 V / 2.5 A)
 - 02x TPIC6B595 (Power Shift Register)
@@ -52,8 +55,10 @@
 - 07x Ceramic capacitor (X7R 100 nF)
 - 01x Electro radial capacitor (100µF)
 - 01x Resettable fuse
-- 02x Push buttons
-- 01x PCB stand (not included, to be printed according to the provided 3D model)
+- 02x Push buttons  
+
+**To be printed according to the provided 3D model:**
+- 01x PCB stand
 
 <p align="center">
 <img src="05_images/product/ml01-product-07.png" width="800"><br>
