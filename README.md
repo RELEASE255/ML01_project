@@ -16,7 +16,7 @@
 
 # 💡 Overview
 
-**ML01** is a fully DIY through-hole LED board driven by a **Raspberry Pi Pico 2W** and two **TPIC6B595** shift registers. Built for enthusiasts makers, learners, and creative tinkerers, this product combining:
+**ML01** is a fully DIY through-hole LED board driven by a **Raspberry Pi Pico 2W** and two **TPIC6B595** shift registers. Built for makers, learners, and electronic enthusiasts, this product combining:
 
 - Electronics learning
 - Soldering practice
