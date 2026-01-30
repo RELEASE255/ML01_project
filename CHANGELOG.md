@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2026-01-20
+## [1.0.0] - 2026-01-30
 ### Added
 - Initial public release of ML01 DIY LED Board
 - Complete hardware documentation: specifications, assembly, settings, and usage guides
