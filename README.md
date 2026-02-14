@@ -161,7 +161,7 @@ Using the 2 physical buttons or the web interface, see the document [Usage](01_d
 # 🌐 Ecosystem
 
 - **Official website:** *https://release255.com/*
-- **Buy the PCB:** *coming soon via Tindie*
+- **Buy the PCB:** *https://www.tindie.com/products/release255/ml01-the-fully-diy-led-board-pcb-only/*
 - **3d stand:** *https://www.printables.com/model/1552197-pcb-stand*
 - **Community:** *https://mastodon.social/@release255*
 - **Project page:** *https://hackaday.io/project/204896-ml01-project*
@@ -282,5 +282,5 @@ ML01/
 └── README.md
 ```
 
-*Revision date: 2026.01.29*<br>
+*Revision date: 2026.02.14*<br>
 © RELEASE255 | All rights reserved
