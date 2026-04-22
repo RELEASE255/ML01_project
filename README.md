@@ -160,8 +160,13 @@ Using the 2 physical buttons or the web interface, see the document [Usage](01_d
 
 # 🌐 Ecosystem
 
-- **Buy the PCB:** contact me
 - **3d stand:** *https://www.printables.com/model/1552197-pcb-stand*
+
+
+
+# 💶 Buy the PCB
+
+Feel free to contact me if this project interests you and you would like to purchase the printed circuit board.
 
 
 ---
