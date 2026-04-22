@@ -1,4 +1,4 @@
-# ML01 project by RELEASE255
+# ML01 PROJECT by Greg
 **DIY LED Board Powered by Raspberry Pico 2W**
 
 [![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)](/03_hardware/)
@@ -286,4 +286,4 @@ ML01/
 ```
 
 *Revision date: 2026.04.22*<br>
-© RELEASE255 | All rights reserved
+© ML01 PROJECT by Greg | All rights reserved
