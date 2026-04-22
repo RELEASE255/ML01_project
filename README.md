@@ -160,12 +160,9 @@ Using the 2 physical buttons or the web interface, see the document [Usage](01_d
 
 # 🌐 Ecosystem
 
-- **Buy the PCB:** *https://www.tindie.com/products/release255/ml01-the-fully-diy-led-board-pcb-only/*
+- **Buy the PCB:** contact me
 - **3d stand:** *https://www.printables.com/model/1552197-pcb-stand*
-- **Official website:** *https://release255.com/*
-- **Project page:** *https://hackaday.io/project/204896-ml01-project*
-- **Reddit:** *https://www.reddit.com/user/RELEASE255/*
-- **Mastodon:** *https://mastodon.social/@release255*
+
 
 ---
 
@@ -283,5 +280,5 @@ ML01/
 └── README.md
 ```
 
-*Revision date: 2026.03.08*<br>
+*Revision date: 2026.04.22*<br>
 © RELEASE255 | All rights reserved
